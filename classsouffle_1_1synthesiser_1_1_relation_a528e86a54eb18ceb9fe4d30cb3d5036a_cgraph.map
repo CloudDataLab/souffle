@@ -1,0 +1,9 @@
+<map id="souffle::synthesiser::Relation::getRelation" name="souffle::synthesiser::Relation::getRelation">
+<area shape="rect" id="node2" href="$classsouffle_1_1synthesiser_1_1_relation.html#a545ba2de5db6066bc3ca4c14e280c8c0" title="Generate relation type struct. " alt="" coords="231,5,448,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1synthesiser_1_1_relation.html#a8f694e1c74aaf34314c7931f8a6096ef" title="Factory method to generate a SynthesiserRelation. " alt="" coords="219,71,460,112"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1synthesiser_1_1_relation.html#abbdd8f4f1be2d98d00f7d6ebf872ed45" title="Helper function to convert attribute types to a single string. " alt="" coords="240,137,439,193"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1synthesiser_1_1_relation.html#a4ec2b9a68f3c86ee35c7dd1c5a58024f" title="Print type name. " alt="" coords="249,217,430,259"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_relation.html#a1dd48836d6db8753cb237b03461915a6" title="Is nullary relation. " alt="" coords="508,5,669,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_relation.html#acc732e6ee35f3aac4753d0d074f262d5" title="Relation representation type. " alt="" coords="508,71,669,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_relation.html#a3a6283617c07b8e058715018648fb99e" title="Get arity of relation. " alt="" coords="508,136,669,177"/>
+</map>

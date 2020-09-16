@@ -1,0 +1,7 @@
+<map id="souffle::ast::analysis::TopologicallySortedSCCGraphAnalysis" name="souffle::ast::analysis::TopologicallySortedSCCGraphAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="145,277,301,428"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_s_c_c_graph_analysis.html" title="Analysis pass computing the strongly connected component (SCC) graph for the datalog program..." alt="" coords="328,880,589,1192"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1analysis_1_1_precedence_graph_analysis.html" title="Analysis pass computing the precedence graph of the relations of the datalog progam. " alt="" coords="620,630,836,766"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1ast_1_1analysis_1_1_i_o_type_analysis.html" title="{souffle::ast::analysis\l::IOTypeAnalysis\n||+ getLimitSize()\l+ IOTypeAnalysis()\l+ isInput()\l+ isIO()\l+ isLimitSize()\l+ isOutput()\l+ isPrintSize()\l+ print()\l+ run()\l}" alt="" coords="861,593,1017,803"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_graph.html" title="{souffle::Graph\&lt; const\l souffle::ast::Relation\l *, souffle::ast::NameComparison \&gt;\n||+ clique()\l+ contains()\l+ contains()\l+ insert()\l+ insert()\l+ predecessors()\l+ print()\l+ reaches()\l+ successors()\l+ vertices()\l+ visitDepthFirst()\l&#45; visitDepthFirst()\l}" alt="" coords="396,219,649,487"/>
+</map>

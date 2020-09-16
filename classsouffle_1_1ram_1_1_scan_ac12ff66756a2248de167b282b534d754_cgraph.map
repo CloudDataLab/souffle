@@ -1,0 +1,7 @@
+<map id="souffle::ram::Scan::clone" name="souffle::ram::Scan::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="247,5,356,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="192,57,411,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_nested_operation.html#af409277f57f3310ada9cdd1e37772c59" title="Get profile text. " alt="" coords="192,122,411,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="198,187,405,229"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_scan.html#acb6b2a2b2fad05ee36a5a3e657493476" title="souffle::ram::Scan\l::Scan" alt="" coords="232,253,371,294"/>
+</map>

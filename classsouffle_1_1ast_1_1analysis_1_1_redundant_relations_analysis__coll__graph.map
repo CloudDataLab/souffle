@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::RedundantRelationsAnalysis" name="souffle::ast::analysis::RedundantRelationsAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="559,277,715,428"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_precedence_graph_analysis.html" title="Analysis pass computing the precedence graph of the relations of the datalog progam. " alt="" coords="364,549,580,685"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_graph.html" title="{souffle::Graph\&lt; const\l souffle::ast::Relation\l *, souffle::ast::NameComparison \&gt;\n||+ clique()\l+ contains()\l+ contains()\l+ insert()\l+ insert()\l+ predecessors()\l+ print()\l+ reaches()\l+ successors()\l+ vertices()\l+ visitDepthFirst()\l&#45; visitDepthFirst()\l}" alt="" coords="92,219,345,487"/>
+</map>

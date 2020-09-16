@@ -1,0 +1,9 @@
+<map id="souffle::ast::transform::ReorderLiteralsTransformer::getSipsFunction" name="souffle::ast::transform::ReorderLiteralsTransformer::getSipsFunction">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_atom.html#a856edf15bd518f5582e0bd110f5ce3d7" title="Return arity of the atom. " alt="" coords="285,5,422,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast.html#a6e6920a2aefea70b815ac3c0e5c3d210" title="Returns whether the given atom is a propositon. " alt="" coords="260,71,447,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="269,124,438,165"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="511,61,648,103"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="712,69,859,95"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="495,127,664,168"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="717,127,853,168"/>
+</map>

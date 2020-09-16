@@ -1,0 +1,5 @@
+<map id="souffle::ast::RecordType::clone" name="souffle::ast::RecordType::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="268,5,377,32"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1ast_1_1analysis_1_1_record_type.html#aeef0d8949724cfd307c0ced7c2494a56" title="souffle::ast::analysis\l::RecordType::RecordType" alt="" coords="229,57,416,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_type.html#aad07cb882d517ef05c18b4d8addd8a4b" title="souffle::ast::analysis\l::Type::Type" alt="" coords="464,57,620,98"/>
+</map>

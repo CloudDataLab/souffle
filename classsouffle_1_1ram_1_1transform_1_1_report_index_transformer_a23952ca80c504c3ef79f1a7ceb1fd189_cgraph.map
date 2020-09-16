@@ -1,0 +1,5 @@
+<map id="souffle::ram::transform::ReportIndexTransformer::transform" name="souffle::ram::transform::ReportIndexTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_translation_unit.html#ab2b73a9108f0e0f909acc145bd70981e" title="templated method to compute/retrieve an analysis for a translation unit " alt="" coords="240,35,419,76"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="469,5,627,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="467,71,629,98"/>
+</map>

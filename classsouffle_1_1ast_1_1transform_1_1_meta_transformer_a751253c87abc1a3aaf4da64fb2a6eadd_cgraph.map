@@ -1,0 +1,10 @@
+<map id="souffle::ast::transform::MetaTransformer::applySubtransformer" name="souffle::ast::transform::MetaTransformer::applySubtransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#aa2a19006120091a83d662c3cfb56b528" title="souffle::ast::transform\l::Transformer::apply" alt="" coords="343,104,510,145"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="355,170,498,197"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#a69dfaf1387c8b03440b352ff7eebae4e" title="souffle::ast::transform\l::Transformer::getName" alt="" coords="339,221,515,263"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="376,287,477,314"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#af861b2e661819fa1038829fede6e1c4f" title="souffle::ast::transform\l::Transformer::transform" alt="" coords="563,5,743,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_translation_unit.html#a21eda9cc1cd3cc9b103024ce321c7f68" title="Destroy all cached analyses of translation unit. " alt="" coords="563,71,744,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_translation_unit.html#aef07b6bafd4cb6dfc3341a084465bc5f" title="Return error report. " alt="" coords="567,136,740,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_error_report.html#a73c2f7628f4d59c405beb81be36ac228" title="souffle::ErrorReport\l::exitIfErrors" alt="" coords="580,201,727,243"/>
+</map>

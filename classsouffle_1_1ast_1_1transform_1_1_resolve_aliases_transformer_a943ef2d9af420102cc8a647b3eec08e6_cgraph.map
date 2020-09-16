@@ -1,0 +1,16 @@
+<map id="souffle::ast::transform::ResolveAliasesTransformer::removeComplexTermsInAtoms" name="souffle::ast::transform::ResolveAliasesTransformer::removeComplexTermsInAtoms">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="309,19,428,46"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_clause.html#a559bfba3b467f0512a9e292e250c30c1" title="Create a clone (i.e. " alt="" coords="295,71,442,112"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="531,137,641,163"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_term.html#aa518751aef3f1736041f270d238de15b" title="Get arguments. " alt="" coords="301,188,436,229"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="317,254,420,281"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="306,305,431,331"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="284,356,453,397"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_clause.html#a8f9e7d317c2b0082e72ef4357e01dd00" title="souffle::ast::Clause\l::Clause" alt="" coords="513,5,659,47"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="518,71,654,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#a2317760f042742653d90496a6d4dfa2d" title="souffle::ast::Node\l::Node" alt="" coords="719,5,855,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_node.html#ab6ffbc606765b82b0c511df3760e642b" title="souffle::ast::Node\l::~Node" alt="" coords="903,5,1039,47"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="513,195,659,222"/>
+<area shape="rect" id="node14" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="501,356,671,397"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="719,356,855,397"/>
+</map>

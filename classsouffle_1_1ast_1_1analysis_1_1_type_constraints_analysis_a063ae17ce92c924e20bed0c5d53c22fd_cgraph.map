@@ -1,0 +1,12 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::iterateOverAtom" name="souffle::ast::analysis::TypeConstraintsAnalysis::iterateOverAtom">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="521,5,658,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a1cd3603ceb19cd0d014f1e0da9312c18" title="Returns the relation referenced by the given atom. " alt="" coords="243,78,453,105"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#a4c292ab6493aa103783a6e122fe6f2cc" title="souffle::ast::analysis\l::TypeEnvironment::getType" alt="" coords="247,129,449,171"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#a84f9f89b96d9c2377a810642044f7d5e" title="souffle::ast::analysis\l::TypeEnvironment::isType" alt="" coords="252,195,444,236"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="297,261,399,287"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="931,82,1077,109"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="515,71,663,112"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="501,137,677,163"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="752,78,856,105"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="725,129,883,171"/>
+</map>

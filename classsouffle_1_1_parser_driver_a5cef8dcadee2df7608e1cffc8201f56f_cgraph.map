@@ -1,0 +1,5 @@
+<map id="souffle::ParserDriver::addFunctorDeclaration" name="souffle::ParserDriver::addFunctorDeclaration">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="245,5,349,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="229,57,365,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="235,123,360,149"/>
+</map>

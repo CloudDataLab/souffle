@@ -1,0 +1,13 @@
+<map id="ram/IntrinsicOperator.h" name="ram/IntrinsicOperator.h">
+<area shape="rect" id="node2" href="$_functor_ops_8h.html" title="FunctorOps.h" alt="" coords="420,304,527,331"/>
+<area shape="rect" id="node5" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="446,543,549,569"/>
+<area shape="rect" id="node19" href="$_abstract_operator_8h.html" title="ram/AbstractOperator.h" alt="" coords="1457,80,1631,107"/>
+<area shape="rect" id="node20" href="$_expression_8h.html" title="ram/Expression.h" alt="" coords="1122,155,1257,181"/>
+<area shape="rect" id="node21" href="$ram_2_node_8h.html" title="ram/Node.h" alt="" coords="1140,229,1239,256"/>
+<area shape="rect" id="node30" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="1936,379,2131,405"/>
+<area shape="rect" id="node3" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="94,379,263,405"/>
+<area shape="rect" id="node4" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="421,461,597,487"/>
+<area shape="rect" id="node23" href="$ram_2_node_mapper_8h.html" title="ram/NodeMapper.h" alt="" coords="1361,379,1506,405"/>
+<area shape="rect" id="node24" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1534,453,1709,495"/>
+<area shape="rect" id="node22" href="$ram_2_lambda_node_mapper_8h.html" title="ram/LambdaNodeMapper.h" alt="" coords="1159,304,1356,331"/>
+</map>

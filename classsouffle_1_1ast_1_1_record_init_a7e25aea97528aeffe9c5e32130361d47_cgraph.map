@@ -1,0 +1,6 @@
+<map id="souffle::ast::RecordInit::clone" name="souffle::ast::RecordInit::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="249,5,358,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="235,57,371,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_record_init.html#a084db8169878954e33ed18f7e087aaa9" title="souffle::ast::RecordInit\l::RecordInit" alt="" coords="220,122,387,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_term.html#a3018b8a7c5ca088a45d7afba8ee3e7ea" title="souffle::ast::Term\l::Term" alt="" coords="435,122,569,163"/>
+</map>

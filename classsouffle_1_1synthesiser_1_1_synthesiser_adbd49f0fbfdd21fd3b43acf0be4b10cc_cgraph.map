@@ -1,0 +1,38 @@
+<map id="souffle::synthesiser::Synthesiser::generateCode" name="souffle::synthesiser::Synthesiser::generateCode">
+<area shape="rect" id="node2" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="292,5,455,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#aad78346252bf890fbf93de92aa4a2f73" title="souffle::escape" alt="" coords="313,56,433,83"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1056c0ab323cd2951500d84bea3c0aa1" title="Escape JSON string. " alt="" coords="279,107,468,133"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="577,208,681,235"/>
+<area shape="rect" id="node6" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="771,183,913,209"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ram_1_1_i_o.html#a30542031afa8a2740f3181adabe77385" title="value of I/O directive " alt="" coords="298,376,449,403"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ram_1_1_user_defined_operator.html#a12b3e65c2606d09869cd16ed70529e16" title="Get types of arguments. " alt="" coords="279,427,467,469"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ram_1_1_program.html#a9e03ff6c613effe1e7edc00f70f52fba" title="Get main program. " alt="" coords="292,493,455,534"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ram_1_1_user_defined_operator.html#ac5f3cdb0630ca5f9f85fe0611ba663ea" title="Get operator name. " alt="" coords="279,558,467,599"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1ram_1_1_relation.html#a0e4164830a6ec604ae81d46f41d2cf47" title="Get name. " alt="" coords="293,623,454,665"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1ram_1_1_relation_statement.html#a0bcbc3a222d7164dd53c3692b97b606a" title="Get RAM relation. " alt="" coords="259,689,488,730"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1ram_1_1_program.html#a4958c02e723d2d885e2197daa03b6091" title="Get all relations of RAM program. " alt="" coords="292,754,455,795"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1ram_1_1_user_defined_operator.html#aa40f90ae13ed00a2ff19c194171c1b3c" title="Get return type. " alt="" coords="279,819,467,861"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1ram_1_1_program.html#aa3dd11e98b2abf9d078e6d092dddf9be" title="Get all subroutines of a RAM program. " alt="" coords="292,885,455,926"/>
+<area shape="rect" id="node28" href="$namespacesouffle_1_1ast_1_1analysis.html#af454c8b25ece926ca5206774d8f23be1" title="A generic factory for constraints of the form. " alt="" coords="536,921,723,948"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ram_1_1_user_defined_operator.html#a02c30435a41dcceb115a5e0555d64ea7" title="Is functor stateful? " alt="" coords="279,1002,467,1043"/>
+<area shape="rect" id="node30" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="324,1068,423,1095"/>
+<area shape="rect" id="node31" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="322,1119,425,1145"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_symbol_table.html#a438d450330bc4128144f08c6ae0c4989" title="Find a symbol in the table by its index, note that this gives an error if the index is out of bounds..." alt="" coords="295,259,452,301"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_symbol_table.html#ab9b012e60e61e149cfc430a9eccc20ea" title="souffle::SymbolTable\l::size" alt="" coords="551,318,708,359"/>
+<area shape="rect" id="node35" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="289,1170,458,1211"/>
+<area shape="rect" id="node7" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="961,183,1112,209"/>
+<area shape="rect" id="node15" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1160,116,1365,143"/>
+<area shape="rect" id="node8" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1195,167,1331,209"/>
+<area shape="rect" id="node16" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1195,233,1330,260"/>
+<area shape="rect" id="node17" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1190,284,1335,311"/>
+<area shape="rect" id="node9" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1415,102,1600,143"/>
+<area shape="rect" id="node10" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1413,167,1601,209"/>
+<area shape="rect" id="node14" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1432,233,1583,274"/>
+<area shape="rect" id="node11" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1876,138,2040,179"/>
+<area shape="rect" id="node12" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="1649,197,1828,238"/>
+<area shape="rect" id="node13" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1890,203,2026,245"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="556,761,703,788"/>
+<area shape="rect" id="node33" href="$structsouffle_1_1_lock.html#a0fe2edd3ac13a141851fa021716bae04" title="souffle::Lock::acquire" alt="" coords="549,267,709,293"/>
+<area shape="rect" id="node36" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="545,1170,714,1211"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="774,1170,910,1211"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="souffle::ram::transform::MakeIndexTransformer::rewriteIndexScan" name="souffle::ram::transform::MakeIndexTransformer::rewriteIndexScan">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1081,522,1191,549"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1transform_1_1_make_index_transformer.html#af879a7b42c89b456b33a0f9f4530041a" title="souffle::ram::transform\l::MakeIndexTransformer\l::constructPattern" alt="" coords="255,805,434,861"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#aa0949fa42d9e396bb5407f69b450c1f1" title="Filter a vector to include certain elements. " alt="" coords="1342,1227,1446,1254"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1ram_1_1_index_operation.html#aa97304925d66e5f54ea0aee73baafd2b" title="Get range pattern. " alt="" coords="1290,64,1498,105"/>
+<area shape="rect" id="node37" href="$namespacesouffle.html#ad0e8debde5608979e041dd30e044612a" title="Valid C++ identifier, note that this does not ensure the uniqueness of identifiers returned..." alt="" coords="1070,1109,1202,1135"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1ram_1_1_relation.html#a44374d11c50e843545d3a6541b8ff958" title="Get attribute types. " alt="" coords="264,1279,425,1320"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="235,1344,454,1385"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1ram_1_1_nested_operation.html#af409277f57f3310ada9cdd1e37772c59" title="Get profile text. " alt="" coords="235,1409,454,1451"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1ram_1_1_relation_operation.html#a8ec015b8c6fa6882651e9bf1a943f41d" title="Get search relation. " alt="" coords="232,1475,457,1516"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="241,1540,448,1581"/>
+<area shape="rect" id="node48" href="$namespacesouffle_1_1ram.html#a1174501ff6b0e4c6f85fa17f0dac7ab5" title="Determines if a condition represents true. " alt="" coords="271,1606,418,1633"/>
+<area shape="rect" id="node49" href="$namespacesouffle_1_1ram.html#acf6d2a90790978f30945fcf3faa851e3" title="Convert terms of a conjunction to a list. " alt="" coords="234,1657,455,1683"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#aa4a6891b4e138fd7aedb639627097931" title="souffle::convertStrictTo\lNotEqualConstraint" alt="" coords="533,724,704,765"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a5adb5f7f8b8097a8899d1c6bbdb8308b" title="souffle::isStrictIneqConstraint" alt="" coords="781,966,995,993"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#af2057126c6cdd622048f8deb4eb95d70" title="souffle::convertStrictTo\lWeakIneqConstraint" alt="" coords="533,959,704,1000"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a1bb8efb02653d9daa1db8801569c3f29" title="souffle::getEqConstraint" alt="" coords="529,790,708,817"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ac2de96b2c281414eb9c6738034d3ca26" title="souffle::getGreaterEqual\lConstraint" alt="" coords="529,841,709,883"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a988ab9dfee42495c61170dafd1f156bc" title="souffle::getLessEqualConstraint" alt="" coords="505,907,732,934"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ram_1_1analysis_1_1_level_analysis.html#a2afe65ccfe64a1ec590911e5e983d99a" title="Get level of a RAM expression/condition. " alt="" coords="1044,639,1228,680"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1ram_1_1transform_1_1_make_index_transformer.html#a506152abbc1617c4f907215fc1c6e655" title="souffle::ram::transform\l::MakeIndexTransformer\l::getLowerUpperExpression" alt="" coords="519,643,719,699"/>
+<area shape="rect" id="node40" href="$namespacesouffle.html#aa7beb7bdc9e668fee8286e882940342e" title="souffle::getMaxOp" alt="" coords="549,1075,689,1102"/>
+<area shape="rect" id="node41" href="$namespacesouffle.html#a63a376c4a66bfe1dc9a32e15145ac877" title="Given a type of an an attribute it returns the appropriate min/max functor operation. " alt="" coords="551,441,687,467"/>
+<area shape="rect" id="node42" href="$namespacesouffle_1_1ram.html#a0d10001e285b2d129058d9e7b81d85bd" title="Determines if an expression represents an undefined value. " alt="" coords="521,491,716,518"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="1342,130,1446,157"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ram_1_1_abstract_operator.html#a84d5683c08f3f7b73f22b0ea5195186a" title="Get argument values. " alt="" coords="1285,312,1503,353"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1ram_1_1_pack_record.html#a7757ea2ac8d0f4ddb8604d4de9eeda88" title="Get record arguments. " alt="" coords="1303,965,1485,1007"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ram_1_1_abstract_choice.html#a96601fa173a5e3d271ce9108aff8afef" title="Getter for the condition. " alt="" coords="1291,181,1497,223"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ram_1_1_abstract_conditional.html#a8e5dd524a4bf820614023b44d9d8693c" title="Get condition that must be satisfied. " alt="" coords="1276,247,1512,288"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ram_1_1_abstract_aggregate.html#a052a3fc9bbaefca0b75f774cbb842142" title="Get condition. " alt="" coords="1279,377,1509,419"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ram_1_1_unpack_record.html#aa49127c1c6c2d00a2b17c0a7820cbad4" title="Get record expression. " alt="" coords="1293,443,1495,484"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1ram_1_1_abstract_aggregate.html#a6b8f30bf69f7d527ea56e7d26802427f" title="Get target expression. " alt="" coords="1279,508,1509,549"/>
+<area shape="rect" id="node23" href="$classsouffle_1_1ram_1_1_conjunction.html#ab89811de4bc41803cbc40a1cd5e1eb63" title="Get left&#45;hand side of conjunction. " alt="" coords="1301,573,1487,615"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1ram_1_1_constraint.html#ad325e783326c45d9fe8a5c5928184903" title="Get left&#45;hand side. " alt="" coords="1307,1161,1481,1203"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1ram_1_1_negation.html#aa38eea4d9eae50bc31f6cc4139aa4848" title="Get operand of negation. " alt="" coords="1311,639,1477,680"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1ram_1_1_conjunction.html#a3aa9d07849e1c9f55e7bb3ebef2de816" title="Get right&#45;hand side of conjunction. " alt="" coords="1301,704,1487,745"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1ram_1_1_constraint.html#a5a08aad5c3ab862bed6c9c0774c4b2e3" title="Get right&#45;hand side. " alt="" coords="1307,1096,1481,1137"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ram_1_1_tuple_element.html#ac192573146b917c5e8247a623dc2fb3c" title="Get identifier. " alt="" coords="1296,769,1492,811"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1ram_1_1_subroutine_return.html#a046af498d3c1c69abebe0bdc9b30bd85" title="Getter for expressions. " alt="" coords="1305,835,1483,876"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1ram_1_1_abstract_existence_check.html#ae027685354ba4eb393168f5f68605f86" title="Get arguments of the tuple/pattern A null pointer element in the vector denotes an unspecified patter..." alt="" coords="1281,1031,1507,1072"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1ram_1_1_project.html#a69b2c8be65ac843aa16517180fce232c" title="Get expressions. " alt="" coords="1317,900,1471,941"/>
+<area shape="rect" id="node33" href="$namespacesouffle.html#a109db698f6adb0de81299c0108b617f6" title="helper to convert tuple to record reference for the synthesiser " alt="" coords="1341,13,1447,39"/>
+<area shape="rect" id="node12" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1565,130,1707,157"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a6502e279c40a34078cb9d93a465c7590" title="Filter a vector to exclude certain elements. " alt="" coords="1573,1227,1699,1254"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1563,874,1709,901"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_record_table.html#a30764bb03ecccb41235514a2cfbbcb0d" title="convert record to record reference " alt="" coords="1560,5,1712,47"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1ram_1_1transform_1_1_make_index_transformer.html#a02a6d1137f3f66c6bd5bbea23421d2bc" title="souffle::ram::transform\l::MakeIndexTransformer\l::getExpressionPair" alt="" coords="799,810,977,866"/>
+<area shape="rect" id="node38" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="804,649,972,675"/>
+<area shape="rect" id="node39" href="$namespacesouffle.html#accae13f70f4360c97a5fe92518518240" title="souffle::isWeakIneqConstraint" alt="" coords="780,750,996,777"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1ram_1_1_condition.html#a726853a3c79bd6093a8a9fab1e0237ee" title="Create a clone (i.e. " alt="" coords="533,1649,704,1691"/>
+</map>

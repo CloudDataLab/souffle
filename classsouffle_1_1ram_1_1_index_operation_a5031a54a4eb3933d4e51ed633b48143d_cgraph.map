@@ -1,0 +1,5 @@
+<map id="souffle::ram::IndexOperation::apply" name="souffle::ram::IndexOperation::apply">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_relation_operation.html#a018c0822ab3b90ecd8b7a836ae9ea369" title="Apply the mapper to all child nodes. " alt="" coords="261,56,487,97"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="801,71,904,98"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_nested_operation.html#a0e2716aaa9c303f38931579657354428" title="Apply the mapper to all child nodes. " alt="" coords="535,5,753,47"/>
+</map>

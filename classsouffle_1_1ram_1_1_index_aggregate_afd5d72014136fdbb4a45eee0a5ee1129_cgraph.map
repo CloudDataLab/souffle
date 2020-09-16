@@ -1,0 +1,6 @@
+<map id="souffle::ram::IndexAggregate::apply" name="souffle::ram::IndexAggregate::apply">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_index_operation.html#a5031a54a4eb3933d4e51ed633b48143d" title="Apply the mapper to all child nodes. " alt="" coords="264,107,472,148"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="1060,97,1163,123"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_relation_operation.html#a018c0822ab3b90ecd8b7a836ae9ea369" title="Apply the mapper to all child nodes. " alt="" coords="520,56,745,97"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_nested_operation.html#a0e2716aaa9c303f38931579657354428" title="Apply the mapper to all child nodes. " alt="" coords="793,5,1012,47"/>
+</map>

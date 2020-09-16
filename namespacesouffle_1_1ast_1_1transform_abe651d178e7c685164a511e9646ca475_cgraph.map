@@ -1,0 +1,9 @@
+<map id="souffle::ast::transform::normaliseInlinedHeads" name="souffle::ast::transform::normaliseInlinedHeads">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_program.html#a6e242189a740536f24b73c7d2440636a" title="Add a clause. " alt="" coords="242,5,399,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="266,71,375,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="233,122,408,149"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="456,172,613,213"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a2d97408e345d7b58598a90f655eb49fd" title="Remove a clause. " alt="" coords="242,224,399,265"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="456,107,613,148"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="661,147,808,174"/>
+</map>

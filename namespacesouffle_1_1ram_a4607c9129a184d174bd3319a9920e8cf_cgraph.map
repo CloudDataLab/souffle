@@ -1,0 +1,4 @@
+<map id="souffle::ram::visitDepthFirst" name="souffle::ram::visitDepthFirst">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1ram.html#a4431e2989c0be60c179724bb4f1fd20b" title="A utility function visiting all nodes within the RAM fragment rooted by the given node recursively in..." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_node.html#ac5ba9179363119ae0c74702b49464067" title="Obtain list of all embedded child nodes. " alt="" coords="451,5,593,47"/>
+</map>

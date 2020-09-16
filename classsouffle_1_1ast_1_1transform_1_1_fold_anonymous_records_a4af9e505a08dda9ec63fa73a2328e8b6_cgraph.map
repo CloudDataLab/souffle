@@ -1,0 +1,22 @@
+<map id="souffle::ast::transform::FoldAnonymousRecords::clone" name="souffle::ast::transform::FoldAnonymousRecords::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#ab46263482ff5b1ce4ece7bca0ad83764" title="Determine if the clause contains at least one binary constraint which can be expanded. " alt="" coords="472,97,700,153"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#aaa0cdfc93ce346a7eeff1ec3a6202bd0" title="Determine if binary constraint can be expanded. " alt="" coords="771,123,956,179"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#aa8ea465275c07ae801e34bafdf735a57" title="Expand constraint on records position&#45;wise. " alt="" coords="748,253,979,309"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#a23de226942b5532127105607fc8567d1" title="souffle::ast::transform\l::FoldAnonymousRecords\l::transform" alt="" coords="239,345,424,401"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#acb2cd3b1bda8faf14f00509b6db65bc8" title="Process a single clause. " alt="" coords="493,279,679,335"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="799,5,928,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="779,57,948,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1048,23,1217,65"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1287,23,1423,65"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a8b1cd3e36ee98ec2d286ce74ccdeaea1" title="Return left&#45;hand side argument. " alt="" coords="1027,141,1238,182"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="1049,207,1217,233"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a269a51553c86cbb637013907c879f478" title="Negated Constraint Operator Each operator requires a negated operator which is necessary for the expa..." alt="" coords="1027,89,1239,116"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_binary_constraint.html#ad4b83b4fdc041e7f83acadfb485ddc77" title="Return right&#45;hand side argument. " alt="" coords="1027,258,1238,299"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a4754227050fac00fea834edec17b6862" title="Return binary operator. " alt="" coords="1027,323,1238,365"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1078,389,1187,416"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="499,425,673,466"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="507,359,665,401"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ast_1_1_program.html#a1ba568d9a307cb8042f09f858d0811ca" title="Set clauses. " alt="" coords="507,490,665,531"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1059,472,1206,499"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="790,435,937,477"/>
+</map>

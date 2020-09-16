@@ -1,0 +1,10 @@
+<map id="souffle::ast::transform::ADTtoRecordsTransformer::clone" name="souffle::ast::transform::ADTtoRecordsTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_a_d_tto_records_transformer.html#a004148c39b8f2234f613c26df420ac1f" title="souffle::ast::transform\l::ADTtoRecordsTransformer\l::transform" alt="" coords="252,138,451,194"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="514,35,687,76"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_sum_type_branches_analysis.html#a85bd38549409546302bea09b03dee4a5" title="souffle::ast::analysis\l::SumTypeBranchesAnalysis\l::unsafeGetType" alt="" coords="499,101,703,157"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="514,181,687,223"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#ada52fa87a44d5fda0734645f0375b2bf" title="Apply the mapper to all child nodes. " alt="" coords="522,247,679,288"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="753,5,911,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="751,71,913,98"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="781,254,883,281"/>
+</map>

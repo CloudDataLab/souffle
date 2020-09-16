@@ -1,0 +1,4 @@
+<map id="souffle::ast::analysis::RecordType" name="souffle::ast::analysis::RecordType">
+<area shape="rect" id="node3" href="$structsouffle_1_1ast_1_1analysis_1_1_subset_record_type.html" title="Type representing a subset type derived from the record type. " alt="" coords="13,461,179,568"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_type.html" title="An abstract base class for types to be covered within a type environment. " alt="" coords="5,5,187,229"/>
+</map>

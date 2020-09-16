@@ -1,0 +1,8 @@
+<map id="souffle::ast::transform::ReorderLiteralsTransformer::getOrderingAfterSIPS" name="souffle::ast::transform::ReorderLiteralsTransformer::getOrderingAfterSIPS">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_binding_store.html#ab4e6155afcf06e3bf222533621196a41" title="Mark the given variable as strongly bound. " alt="" coords="260,5,445,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="284,71,421,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_binding_store.html#a9437db80e5dd371034346c6f5e834a98" title="Reduce the full set of dependencies for all tracked variables, binding whatever needs to be bound..." alt="" coords="493,5,679,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="960,13,1089,39"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_binding_store.html#a756367f4c817ffaceb0f309cd33f2688" title="Reduce a conjunctive set of dependencies based on the current bound variable set. ..." alt="" coords="727,35,912,76"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="513,78,659,105"/>
+</map>

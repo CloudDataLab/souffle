@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::MinimiseProgramTransformer::areBijectivelyEquivalent" name="souffle::ast::transform::MinimiseProgramTransformer::areBijectivelyEquivalent">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a7b51b8951309e7c2adf5ba36bfb71eb6" title="souffle::ast::analysis\l::NormalisedClause::getConstants" alt="" coords="291,5,534,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a5608249498888fcc806a1ab15cb49926" title="souffle::ast::analysis\l::NormalisedClause::getElements" alt="" coords="293,71,532,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a44f4d61d54d7fe77e4b8b7a9f28f2591" title="souffle::ast::analysis\l::NormalisedClause::getVariables" alt="" coords="293,136,532,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a8e7350df5aa944f7565d5c1b2e2c1700" title="souffle::ast::analysis\l::NormalisedClause::isFullyNormalised" alt="" coords="276,201,549,243"/>
+</map>

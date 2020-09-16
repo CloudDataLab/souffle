@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::createMagicAtom" name="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::createMagicAtom">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="270,5,379,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="256,57,393,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="251,122,399,163"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="447,64,593,91"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::ClauseNormalisationAnalysis::run" name="souffle::ast::analysis::ClauseNormalisationAnalysis::run">
+<area shape="rect" id="node2" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="355,5,485,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="333,57,507,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a0591d33d09168f7c0826c59094941a1e" title="souffle::ast::analysis\l::NormalisedClause::Normalised\lClause" alt="" coords="304,123,536,179"/>
+</map>

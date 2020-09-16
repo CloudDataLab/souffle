@@ -1,0 +1,10 @@
+<map id="souffle::ast::transform::NameUnnamedVariablesTransformer::clone" name="souffle::ast::transform::NameUnnamedVariablesTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_name_unnamed_variables_transformer.html#ab954b678061a6eb4c143eefb630c4822" title="souffle::ast::transform\l::NameUnnamedVariablesTransformer\l::transform" alt="" coords="324,82,595,138"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="643,5,817,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="865,49,1023,91"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="643,122,817,149"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#ada52fa87a44d5fda0734645f0375b2bf" title="Apply the mapper to all child nodes. " alt="" coords="651,173,809,215"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1071,90,1217,117"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="865,115,1023,156"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="893,181,995,207"/>
+</map>

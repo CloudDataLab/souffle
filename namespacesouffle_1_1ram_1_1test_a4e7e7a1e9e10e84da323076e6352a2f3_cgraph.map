@@ -1,0 +1,8 @@
+<map id="souffle::ram::test::TEST" name="souffle::ram::test::TEST">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_unpack_record.html#a4c0aea0bf170a3ce8fe5a4fe7d4e8b19" title="Create a clone (i.e. " alt="" coords="187,122,388,163"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="491,5,600,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_unpack_record.html#aa49127c1c6c2d00a2b17c0a7820cbad4" title="Get record expression. " alt="" coords="445,57,646,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="436,122,655,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="442,187,649,229"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ram_1_1_unpack_record.html#a57e728bf5dee2b5ff9574280f51e9f23" title="souffle::ram::UnpackRecord\l::UnpackRecord" alt="" coords="445,253,646,294"/>
+</map>

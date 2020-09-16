@@ -1,0 +1,8 @@
+<map id="souffle::ast::BindingStore::isBound" name="souffle::ast::BindingStore::isBound">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_binding_store.html#ac7d39b94794fce0a63e1d0ebb7bd455a" title="Check if a variable is bound. " alt="" coords="239,57,424,98"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="500,5,629,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_binding_store.html#a8a84cac2f0593a4739c56dcc75a1f99c" title="Counts the number of bound arguments in the given atom. " alt="" coords="472,57,657,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="705,35,848,61"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="708,86,845,127"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="896,93,1043,120"/>
+</map>

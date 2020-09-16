@@ -1,0 +1,14 @@
+<map id="souffle::ram::transform::IfConversionTransformer::rewriteIndexScan" name="souffle::ram::transform::IfConversionTransformer::rewriteIndexScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_expression.html#ae44ff215781dd5efb90b488eaec58ecb" title="Create a clone (i.e. " alt="" coords="267,5,446,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_operation.html#a45c0855b47e6f6826f4d915e19209f17" title="Create a clone (i.e. " alt="" coords="271,71,443,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="247,136,466,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_nested_operation.html#af409277f57f3310ada9cdd1e37772c59" title="Get profile text. " alt="" coords="247,201,466,243"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_index_operation.html#aa97304925d66e5f54ea0aee73baafd2b" title="Get range pattern. " alt="" coords="253,267,461,308"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ram_1_1_relation_operation.html#a8ec015b8c6fa6882651e9bf1a943f41d" title="Get search relation. " alt="" coords="244,332,469,373"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="253,397,460,439"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ram_1_1_tuple_element.html#ac192573146b917c5e8247a623dc2fb3c" title="Get identifier. " alt="" coords="259,463,455,504"/>
+<area shape="rect" id="node11" href="$namespacesouffle_1_1ram.html#a4607c9129a184d174bd3319a9920e8cf" title="A utility function visiting all nodes within the RAM fragments rooted by the given node recursively i..." alt="" coords="269,528,444,569"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="531,274,678,301"/>
+<area shape="rect" id="node12" href="$namespacesouffle_1_1ram.html#a4431e2989c0be60c179724bb4f1fd20b" title="A utility function visiting all nodes within the RAM fragment rooted by the given node recursively in..." alt="" coords="517,528,692,569"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ram_1_1_node.html#ac5ba9179363119ae0c74702b49464067" title="Obtain list of all embedded child nodes. " alt="" coords="740,528,883,569"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="souffle::ast::renameAtoms" name="souffle::ast::renameAtoms">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_node.html#a40bbdb53c63f664c2c43854dc7f0af7b" title="Apply the mapper to all child nodes. " alt="" coords="248,5,384,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="261,71,371,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="251,122,381,149"/>
+</map>

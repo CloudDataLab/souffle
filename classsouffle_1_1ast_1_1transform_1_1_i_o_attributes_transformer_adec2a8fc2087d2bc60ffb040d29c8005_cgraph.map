@@ -1,0 +1,7 @@
+<map id="souffle::ast::transform::IOAttributesTransformer::getRecordsParams" name="souffle::ast::transform::IOAttributesTransformer::getRecordsParams">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="240,5,413,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_program.html#a25337b5995e89a29e38a30cf7c859dea" title="Return types. " alt="" coords="248,71,405,112"/>
+<area shape="rect" id="node5" href="$classjson11_1_1_json.html#a4ae030733f6ebd910882afb9e2364b1a" title="json11::Json::is_null" alt="" coords="251,137,402,163"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="461,78,608,105"/>
+<area shape="rect" id="node6" href="$classjson11_1_1_json.html#aa9c2e69e711a000bdbd424e6b2f06139" title="json11::Json::type" alt="" coords="466,137,603,163"/>
+</map>

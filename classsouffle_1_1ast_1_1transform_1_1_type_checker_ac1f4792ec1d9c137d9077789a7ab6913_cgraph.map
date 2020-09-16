@@ -1,0 +1,8 @@
+<map id="souffle::ast::transform::TypeChecker::visitVariable" name="souffle::ast::transform::TypeChecker::visitVariable">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="273,5,420,47"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1ast_1_1analysis_1_1_type_set.html#a578cf32ffdc37195945db3aa272856e8" title="souffle::ast::analysis\l::TypeSet::empty" alt="" coords="269,71,425,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_type_analysis.html#aacd3f8e49332e8d1b0f979c86d778a50" title="Get the computed types for the given argument. " alt="" coords="256,136,437,177"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="491,5,691,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_type_analysis.html#a345c8fe0c38bfd5fe28922eb15fded8f" title="Analyse the given clause and computes for each contained argument a set of potential types..." alt="" coords="485,136,696,177"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1analysis_1_1_constraint_analysis.html#a8d05436f2410a6cd2a32cbeeab8925f5" title="Runs this constraint analysis on the given clause. " alt="" coords="744,129,904,185"/>
+</map>

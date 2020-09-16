@@ -1,0 +1,10 @@
+<map id="souffle::ast::isRule" name="souffle::ast::isRule">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="409,5,555,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast.html#ad6da4b3c542f0471e3af4a47e3978e23" title="Returns whether the given clause is a fact. " alt="" coords="195,78,333,105"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="409,71,555,112"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_intrinsic_functor.html#a7a3d9099620a867dbedf7990903dc7c0" title="Get function information. " alt="" coords="381,136,583,177"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="397,201,567,243"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="642,78,789,105"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="631,201,800,243"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="848,201,984,243"/>
+</map>

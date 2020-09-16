@@ -1,0 +1,14 @@
+<map id="ast/analysis/SumTypeBranches.h" name="ast/analysis/SumTypeBranches.h">
+<area shape="rect" id="node2" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="1517,304,1688,331"/>
+<area shape="rect" id="node6" href="$_type_system_8h.html" title="ast/analysis/TypeSystem.h" alt="" coords="1076,80,1271,107"/>
+<area shape="rect" id="node14" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="897,379,1071,420"/>
+<area shape="rect" id="node7" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="1096,229,1251,256"/>
+<area shape="rect" id="node8" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="1299,304,1493,331"/>
+<area shape="rect" id="node19" href="$_type_8h.html" title="ast/Type.h" alt="" coords="1325,155,1413,181"/>
+<area shape="rect" id="node24" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="699,155,869,181"/>
+<area shape="rect" id="node25" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="545,229,721,256"/>
+<area shape="rect" id="node26" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="382,304,485,331"/>
+<area shape="rect" id="node31" href="$_functional_util_8h.html" title="souffle/utility/Functional\lUtil.h" alt="" coords="144,379,323,420"/>
+<area shape="rect" id="node20" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="1959,229,2051,256"/>
+<area shape="rect" id="node21" href="$_src_location_8h.html" title="parser/SrcLocation.h" alt="" coords="1813,304,1968,331"/>
+</map>

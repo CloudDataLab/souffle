@@ -1,0 +1,46 @@
+<map id="souffle::ast::transform::inlineBodyLiterals" name="souffle::ast::transform::inlineBodyLiterals">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="1687,239,1797,266"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1transform_1_1_nullable_vector.html#ab1413c473cb705a7ce19d8e2bafa2509" title="souffle::ast::transform\l::NullableVector::getVector" alt="" coords="220,656,415,697"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1ast_1_1transform_1_1_nullable_vector.html#a9603290d354fffc43865cb122b514abf" title="souffle::ast::transform\l::NullableVector::isValid" alt="" coords="1149,707,1325,748"/>
+<area shape="rect" id="node43" href="$namespacesouffle_1_1ast_1_1transform.html#a4ef7394d84d020c597cb916fa67ff8ed" title="Returns the nullable vector of substitutions needed to unify the two given atoms. ..." alt="" coords="234,739,401,780"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast_1_1transform.html#a60d908235c9c6d168bdfb2098b55090e" title="Tries to perform a single step of inlining on the given literal. " alt="" coords="463,551,629,592"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast_1_1transform.html#a8a7455cc2262cc907c15e6124ac6588a" title="Forms the bodies that will replace the negation of a given inlined atom. " alt="" coords="687,821,854,863"/>
+<area shape="rect" id="node26" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="919,493,1094,519"/>
+<area shape="rect" id="node30" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="919,543,1095,570"/>
+<area shape="rect" id="node34" href="$namespacesouffle_1_1ast_1_1transform.html#ac78e04494a4e67eb9ae63a399c99d92f" title="Returns a vector of arguments that should replace the given argument after one step of inlining..." alt="" coords="923,356,1090,397"/>
+<area shape="rect" id="node40" href="$namespacesouffle_1_1ast_1_1transform.html#addbf430b3cb758d9345bb1ba0dd17efd" title="Returns a vector of atoms that should replace the given atom after one step of inlining. " alt="" coords="687,696,854,737"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1ast_1_1_relation.html#a4f64acf8983db2fb8ba59c9273c1cf20" title="Check for a relation qualifier. " alt="" coords="693,427,848,468"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast_1_1transform.html#a146c65e4e8a4429da50a66c746744e58" title="Return the negated version of a disjunction of conjunctions. " alt="" coords="912,1016,1101,1057"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="933,829,1081,871"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast_1_1transform.html#a940bd55ad10e760454fb7af87c1c130d" title="Returns the negated version of a given literal. " alt="" coords="1154,875,1321,916"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_atom.html#a25ad407a2a6ec36e21062d70ff74b24b" title="Create a clone (i.e. " alt="" coords="1412,736,1549,777"/>
+<area shape="rect" id="node11" href="$namespacesouffle_1_1ast.html#aa858fc1ad141e8a9dd2b806407c65116" title="Negate an ast constraint. " alt="" coords="1373,904,1588,945"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="1690,853,1794,879"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_atom.html#a62f0d1457357894e5553a98a9df0deaf" title="souffle::ast::Atom\l::Atom" alt="" coords="1673,736,1811,777"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="1674,648,1810,689"/>
+<area shape="rect" id="node25" href="$namespacesouffle.html#a269a51553c86cbb637013907c879f478" title="Negated Constraint Operator Each operator requires a negated operator which is necessary for the expa..." alt="" coords="1636,911,1848,938"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1896,853,2039,879"/>
+<area shape="rect" id="node14" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="2087,853,2237,879"/>
+<area shape="rect" id="node22" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="2285,786,2491,813"/>
+<area shape="rect" id="node15" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="2320,837,2456,879"/>
+<area shape="rect" id="node23" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="2321,903,2455,930"/>
+<area shape="rect" id="node24" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="2315,954,2461,981"/>
+<area shape="rect" id="node16" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="2540,772,2725,813"/>
+<area shape="rect" id="node17" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="2539,837,2727,879"/>
+<area shape="rect" id="node21" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="2557,903,2708,944"/>
+<area shape="rect" id="node18" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="3001,808,3165,849"/>
+<area shape="rect" id="node19" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="2775,867,2953,908"/>
+<area shape="rect" id="node20" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="3015,873,3151,915"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="1159,473,1316,515"/>
+<area shape="rect" id="node28" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1407,546,1554,573"/>
+<area shape="rect" id="node31" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1185,655,1289,682"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="1159,539,1316,580"/>
+<area shape="rect" id="node35" href="$namespacesouffle_1_1ast_1_1transform.html#ac08b034edc612cbd02a263082b1bbc46" title="souffle::ast::transform\l::combineAggregators" alt="" coords="1154,173,1321,215"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1ast_1_1_aggregator.html#a89b1301ec904219812c93d5eb62b2c3e" title="Set body. " alt="" coords="1150,356,1325,397"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1ast_1_1_node.html#a8eab0e38c9a5343d641d5b2eb631733a" title="Set source location for the Node. " alt="" coords="1169,291,1305,332"/>
+<area shape="rect" id="node36" href="$namespacesouffle_1_1ast_1_1transform.html#a1211fcf1fa30273559973f585502c936" title="Renames all variables in a given argument uniquely. " alt="" coords="1397,5,1564,47"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1ast_1_1_node.html#a40bbdb53c63f664c2c43854dc7f0af7b" title="Apply the mapper to all child nodes. " alt="" coords="1674,5,1810,47"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="938,764,1075,805"/>
+<area shape="rect" id="node44" href="$namespacesouffle_1_1ast_1_1transform.html#aef0f3b772710ab151915d04c2538070e" title="Reduces a vector of substitutions. " alt="" coords="463,899,629,940"/>
+<area shape="rect" id="node45" href="$namespacesouffle_1_1ast_1_1analysis.html#af454c8b25ece926ca5206774d8f23be1" title="A generic factory for constraints of the form. " alt="" coords="677,906,864,933"/>
+</map>

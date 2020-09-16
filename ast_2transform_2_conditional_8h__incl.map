@@ -1,0 +1,34 @@
+<map id="ast/transform/Conditional.h" name="ast/transform/Conditional.h">
+<area shape="rect" id="node2" href="$ast_2_translation_unit_8h.html" title="ast/TranslationUnit.h" alt="" coords="5085,379,5241,405"/>
+<area shape="rect" id="node19" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="5323,752,5499,779"/>
+<area shape="rect" id="node47" href="$_debug_reporter_8h.html" title="ast/transform/DebugReporter.h" alt="" coords="5309,80,5531,107"/>
+<area shape="rect" id="node48" href="$ast_2transform_2_meta_8h.html" title="ast/transform/Meta.h" alt="" coords="497,229,655,256"/>
+<area shape="rect" id="node49" href="$ast_2transform_2_transformer_8h.html" title="ast/transform/Transformer.h" alt="" coords="5129,304,5332,331"/>
+<area shape="rect" id="node50" href="$_null_8h.html" title="ast/transform/Null.h" alt="" coords="5171,155,5323,181"/>
+<area shape="rect" id="node3" href="$_global_8h.html" title="Global.h" alt="" coords="4362,834,4438,861"/>
+<area shape="rect" id="node8" href="$ast_2_program_8h.html" title="ast/Program.h" alt="" coords="4005,453,4118,480"/>
+<area shape="rect" id="node36" href="$ast_2analysis_2_analysis_8h.html" title="ast/analysis/Analysis.h" alt="" coords="1760,603,1931,629"/>
+<area shape="rect" id="node37" href="$_precedence_graph_8h.html" title="ast/analysis/PrecedenceGraph.h" alt="" coords="1569,528,1799,555"/>
+<area shape="rect" id="node39" href="$_s_c_c_graph_8h.html" title="ast/analysis/SCCGraph.h" alt="" coords="1317,453,1499,480"/>
+<area shape="rect" id="node42" href="$_sum_type_branches_8h.html" title="ast/analysis/SumTypeBranches.h" alt="" coords="3745,453,3980,480"/>
+<area shape="rect" id="node44" href="$analysis_2_type_8h.html" title="ast/analysis/Type.h" alt="" coords="5089,453,5236,480"/>
+<area shape="rect" id="node45" href="$_debug_report_8h.html" title="reports/DebugReport.h" alt="" coords="1847,752,2015,779"/>
+<area shape="rect" id="node46" href="$_error_report_8h.html" title="reports/ErrorReport.h" alt="" coords="5161,834,5319,861"/>
+<area shape="rect" id="node9" href="$_clause_8h.html" title="ast/Clause.h" alt="" coords="4319,603,4422,629"/>
+<area shape="rect" id="node10" href="$ast_2_node_8h.html" title="ast/Node.h" alt="" coords="2725,752,2817,779"/>
+<area shape="rect" id="node13" href="$ast_2utility_2_node_mapper_8h.html" title="ast/utility/NodeMapper.h" alt="" coords="4861,677,5043,704"/>
+<area shape="rect" id="node14" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="3909,827,4083,868"/>
+<area shape="rect" id="node25" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="3567,752,3761,779"/>
+<area shape="rect" id="node27" href="$_component_8h.html" title="ast/Component.h" alt="" coords="3588,528,3721,555"/>
+<area shape="rect" id="node28" href="$_component_init_8h.html" title="ast/ComponentInit.h" alt="" coords="3717,603,3872,629"/>
+<area shape="rect" id="node29" href="$_directive_8h.html" title="ast/Directive.h" alt="" coords="2995,603,3112,629"/>
+<area shape="rect" id="node30" href="$_qualified_name_8h.html" title="ast/QualifiedName.h" alt="" coords="4125,677,4280,704"/>
+<area shape="rect" id="node31" href="$ast_2_relation_8h.html" title="ast/Relation.h" alt="" coords="3137,603,3247,629"/>
+<area shape="rect" id="node33" href="$_type_8h.html" title="ast/Type.h" alt="" coords="2883,603,2971,629"/>
+<area shape="rect" id="node34" href="$_functor_declaration_8h.html" title="ast/FunctorDeclaration.h" alt="" coords="3921,677,4101,704"/>
+<area shape="rect" id="node35" href="$_pragma_8h.html" title="ast/Pragma.h" alt="" coords="2217,677,2325,704"/>
+<area shape="rect" id="node20" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="5495,834,5598,861"/>
+<area shape="rect" id="node38" href="$_graph_utils_8h.html" title="GraphUtils.h" alt="" coords="2090,752,2193,779"/>
+<area shape="rect" id="node40" href="$_i_o_type_8h.html" title="ast/analysis/IOType.h" alt="" coords="1075,528,1235,555"/>
+<area shape="rect" id="node43" href="$_type_system_8h.html" title="ast/analysis/TypeSystem.h" alt="" coords="5065,528,5260,555"/>
+</map>

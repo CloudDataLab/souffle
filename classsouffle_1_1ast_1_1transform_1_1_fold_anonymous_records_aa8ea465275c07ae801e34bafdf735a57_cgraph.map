@@ -1,0 +1,7 @@
+<map id="souffle::ast::transform::FoldAnonymousRecords::expandRecordBinaryConstraint" name="souffle::ast::transform::FoldAnonymousRecords::expandRecordBinaryConstraint">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="335,5,444,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a8b1cd3e36ee98ec2d286ce74ccdeaea1" title="Return left&#45;hand side argument. " alt="" coords="284,57,495,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a4754227050fac00fea834edec17b6862" title="Return binary operator. " alt="" coords="284,122,495,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_binary_constraint.html#ad4b83b4fdc041e7f83acadfb485ddc77" title="Return right&#45;hand side argument. " alt="" coords="284,187,495,229"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="305,253,473,280"/>
+</map>

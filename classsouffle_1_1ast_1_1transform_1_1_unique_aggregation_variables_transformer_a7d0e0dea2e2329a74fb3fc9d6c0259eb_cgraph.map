@@ -1,0 +1,9 @@
+<map id="souffle::ast::transform::UniqueAggregationVariablesTransformer::clone" name="souffle::ast::transform::UniqueAggregationVariablesTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_unique_aggregation_variables_transformer.html#acb2fd0d93a6819d985f5776f1e37b00e" title="souffle::ast::transform\l::UniqueAggregationVariables\lTransformer::transform" alt="" coords="268,75,483,131"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast.html#a5960a86f605f8b9c72e6ff2234804f96" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="752,5,921,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="531,49,704,91"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="533,115,702,156"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="555,181,680,207"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="969,53,1105,95"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="752,85,921,127"/>
+</map>

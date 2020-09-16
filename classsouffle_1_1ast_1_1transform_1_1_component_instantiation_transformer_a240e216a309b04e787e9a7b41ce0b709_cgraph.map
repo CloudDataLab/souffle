@@ -1,0 +1,7 @@
+<map id="souffle::ast::transform::ComponentInstantiationTransformer::transform" name="souffle::ast::transform::ComponentInstantiationTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="319,35,492,76"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_translation_unit.html#aef07b6bafd4cb6dfc3341a084465bc5f" title="Return error report. " alt="" coords="319,100,492,141"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="319,165,492,207"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="542,5,701,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="540,71,703,98"/>
+</map>

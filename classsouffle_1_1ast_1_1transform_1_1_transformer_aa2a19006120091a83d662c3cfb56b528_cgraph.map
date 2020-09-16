@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::Transformer::apply" name="souffle::ast::transform::Transformer::apply">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a73c2f7628f4d59c405beb81be36ac228" title="souffle::ErrorReport\l::exitIfErrors" alt="" coords="237,5,384,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#aef07b6bafd4cb6dfc3341a084465bc5f" title="Return error report. " alt="" coords="224,71,397,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_translation_unit.html#a21eda9cc1cd3cc9b103024ce321c7f68" title="Destroy all cached analyses of translation unit. " alt="" coords="220,136,401,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#af861b2e661819fa1038829fede6e1c4f" title="souffle::ast::transform\l::Transformer::transform" alt="" coords="221,201,401,243"/>
+</map>

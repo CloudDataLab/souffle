@@ -1,0 +1,6 @@
+<map id="souffle::ram::Project::print" name="souffle::ram::Project::print">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_relation.html#a0e4164830a6ec604ae81d46f41d2cf47" title="Get name. " alt="" coords="207,5,368,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_project.html#a39f221d38ea674d3d327764e0e46b8c2" title="Get relation. " alt="" coords="211,71,364,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="238,137,337,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a0fff2be077dd5d1105f3a6e718339f2f" title="A utility printing a given value multiple times. " alt="" coords="232,187,343,214"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="souffle::ram::LogRelationTimer::apply" name="souffle::ram::LogRelationTimer::apply">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_relation_statement.html#a6fe7d6ac6d8771fac6074711b03af151" title="Apply the mapper to all child nodes. " alt="" coords="237,5,467,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_abstract_log.html#a7d9358153615eab773aa9bd100151e0c" title="souffle::ram::AbstractLog\l::apply" alt="" coords="259,71,445,112"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="515,46,617,73"/>
+</map>

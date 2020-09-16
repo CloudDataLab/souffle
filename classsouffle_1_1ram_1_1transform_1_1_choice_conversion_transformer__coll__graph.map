@@ -1,0 +1,5 @@
+<map id="souffle::ram::transform::ChoiceConversionTransformer" name="souffle::ram::transform::ChoiceConversionTransformer">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1transform_1_1_transformer.html" title="Transformer &#160;abstract transformer class for a translation unit " alt="" coords="11,359,183,495"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1analysis_1_1_level_analysis.html" title="A Ram Analysis for determining the level of a expression/condition. " alt="" coords="207,366,370,487"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1analysis_1_1_analysis.html" title="Abstract class for a RAM Analysis. " alt="" coords="78,145,241,296"/>
+</map>

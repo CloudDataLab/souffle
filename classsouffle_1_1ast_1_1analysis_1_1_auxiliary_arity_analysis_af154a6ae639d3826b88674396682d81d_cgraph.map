@@ -1,0 +1,4 @@
+<map id="souffle::ast::analysis::AuxiliaryArityAnalysis::getArity" name="souffle::ast::analysis::AuxiliaryArityAnalysis::getArity">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_auxiliary_arity_analysis.html#af72458bb348b4275567d6b94846e370f" title="Returns the number of auxiliary parameters of a relation. " alt="" coords="228,5,403,61"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="451,20,613,47"/>
+</map>

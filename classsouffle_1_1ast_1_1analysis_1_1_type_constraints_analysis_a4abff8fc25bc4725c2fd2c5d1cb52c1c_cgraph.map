@@ -1,0 +1,14 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::visitBranchInit" name="souffle::ast::analysis::TypeConstraintsAnalysis::visitBranchInit">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_term.html#aa518751aef3f1736041f270d238de15b" title="Get arguments. " alt="" coords="277,5,412,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_branch_init.html#a1f6e9f21a604d47b1b69e3a02a620997" title="souffle::ast::BranchInit\l::getConstructor" alt="" coords="261,71,429,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_sum_type_branches_analysis.html#a9b1a285da0e52958f0327aec49ac1479" title="A type can be nullptr in case of a malformed program. " alt="" coords="243,137,447,193"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast_1_1analysis.html#a7a59a824c8f1a160e57decfc92341203" title="Determines whether type a is a subtype of type b. " alt="" coords="267,231,423,272"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="523,13,669,39"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="531,137,661,163"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="799,229,910,255"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="537,238,655,265"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1analysis_1_1_type.html#a7a65c1b4b77cf014624b8deefac42ac5" title="souffle::ast::analysis\l::Type::getTypeEnvironment" alt="" coords="495,289,697,331"/>
+<area shape="rect" id="node11" href="$namespacesouffle_1_1ast_1_1analysis.html#a3f0faa30c5f8af5d43f9b888018f7cc5" title="Determines whether the given type is a sub&#45;type of the given root type. " alt="" coords="518,355,674,396"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1analysis_1_1_subset_type.html#afab8921b3b0c5d08578755fbfdbaad74" title="souffle::ast::analysis\l::SubsetType::getBaseType" alt="" coords="757,321,952,363"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ast_1_1analysis_1_1_union_type.html#a9cfcdac398fe608a3e5bb5c336358f43" title="souffle::ast::analysis\l::UnionType::getElementTypes" alt="" coords="745,387,964,428"/>
+</map>

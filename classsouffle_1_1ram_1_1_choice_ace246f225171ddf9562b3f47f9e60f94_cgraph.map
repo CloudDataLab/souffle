@@ -1,0 +1,6 @@
+<map id="souffle::ram::Choice::apply" name="souffle::ram::Choice::apply">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_abstract_choice.html#afc03d7ce689dcec25e5dfefbd130edbf" title="souffle::ram::AbstractChoice\l::apply" alt="" coords="485,5,691,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_relation_operation.html#a018c0822ab3b90ecd8b7a836ae9ea369" title="Apply the mapper to all child nodes. " alt="" coords="205,64,431,105"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="745,71,848,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_nested_operation.html#a0e2716aaa9c303f38931579657354428" title="Apply the mapper to all child nodes. " alt="" coords="479,123,697,164"/>
+</map>

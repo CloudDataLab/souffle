@@ -1,0 +1,32 @@
+<map id="souffle::ast::transform::TypeChecker::visitTypeCast" name="souffle::ast::transform::TypeChecker::visitTypeCast">
+<area shape="rect" id="node2" href="$classsouffle_1_1_error_report.html#a699dc9231cef74ac54573e3c79de7143" title="Adds an error with the given message and location. " alt="" coords="284,32,431,73"/>
+<area shape="rect" id="node4" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="286,149,429,175"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="289,200,425,241"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1ast_1_1_type_cast.html#a0304fc49fac71e174af74a13ef93461d" title="Return cast type. " alt="" coords="277,265,438,307"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ast_1_1analysis_1_1_type_analysis.html#aacd3f8e49332e8d1b0f979c86d778a50" title="Get the computed types for the given argument. " alt="" coords="267,331,448,372"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ast_1_1_type_cast.html#a087a1f2948b3e055b618f0aae0f0f6a6" title="Return value. " alt="" coords="277,396,438,437"/>
+<area shape="rect" id="node22" href="$namespacesouffle_1_1ast_1_1analysis.html#a884a05f7212028fe74129e203f6b370a" title="Determine if there exist a type t such that a &lt;: t and b &lt;: t. " alt="" coords="264,461,451,503"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#a84f9f89b96d9c2377a810642044f7d5e" title="souffle::ast::analysis\l::TypeEnvironment::isType" alt="" coords="261,527,453,568"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_diagnostic_message.html#ad3fd6ab90856d9cdd9bbba3140440362" title="souffle::DiagnosticMessage\l::DiagnosticMessage" alt="" coords="507,5,707,47"/>
+<area shape="rect" id="node5" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="531,173,682,199"/>
+<area shape="rect" id="node13" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="760,239,965,266"/>
+<area shape="rect" id="node6" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="795,173,931,215"/>
+<area shape="rect" id="node14" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="795,71,930,98"/>
+<area shape="rect" id="node15" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="790,122,935,149"/>
+<area shape="rect" id="node7" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1030,108,1215,149"/>
+<area shape="rect" id="node8" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1029,173,1217,215"/>
+<area shape="rect" id="node12" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1047,239,1198,280"/>
+<area shape="rect" id="node9" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="1507,144,1671,185"/>
+<area shape="rect" id="node10" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="1280,203,1459,244"/>
+<area shape="rect" id="node11" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="1521,209,1657,251"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1analysis_1_1_type_analysis.html#a345c8fe0c38bfd5fe28922eb15fded8f" title="Analyse the given clause and computes for each contained argument a set of potential types..." alt="" coords="501,327,712,368"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ast_1_1analysis_1_1_constraint_analysis.html#a8d05436f2410a6cd2a32cbeeab8925f5" title="Runs this constraint analysis on the given clause. " alt="" coords="783,315,943,371"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a34f8eecb81c090fca9e58d3357b63ed9" title="A generic test checking whether any elements within a container satisfy a certain predicate..." alt="" coords="803,514,922,541"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1ast_1_1analysis_1_1_type.html#a7a65c1b4b77cf014624b8deefac42ac5" title="souffle::ast::analysis\l::Type::getTypeEnvironment" alt="" coords="761,568,964,609"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#ab84763a0635ca95c6ef0fa7702ad118c" title="souffle::ast::analysis\l::TypeEnvironment::getTypes" alt="" coords="502,461,711,503"/>
+<area shape="rect" id="node26" href="$namespacesouffle_1_1ast_1_1analysis.html#a7a59a824c8f1a160e57decfc92341203" title="Determines whether type a is a subtype of type b. " alt="" coords="529,396,685,437"/>
+<area shape="rect" id="node27" href="$namespacesouffle.html#a14b5f9eb9ec09c40e558b242e75de872" title="A generic test checking whether all elements within a container satisfy a certain predicate..." alt="" coords="1067,462,1178,489"/>
+<area shape="rect" id="node28" href="$namespacesouffle_1_1ast_1_1analysis.html#a3f0faa30c5f8af5d43f9b888018f7cc5" title="Determines whether the given type is a sub&#45;type of the given root type. " alt="" coords="785,396,941,437"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ast_1_1analysis_1_1_subset_type.html#afab8921b3b0c5d08578755fbfdbaad74" title="souffle::ast::analysis\l::SubsetType::getBaseType" alt="" coords="1025,396,1220,437"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1ast_1_1analysis_1_1_union_type.html#a9cfcdac398fe608a3e5bb5c336358f43" title="souffle::ast::analysis\l::UnionType::getElementTypes" alt="" coords="1013,331,1232,372"/>
+</map>

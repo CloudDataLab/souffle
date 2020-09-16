@@ -1,0 +1,6 @@
+<map id="souffle::SouffleProgram::getRelationName" name="souffle::SouffleProgram::getRelationName">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="228,35,404,61"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="479,5,583,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="452,57,609,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="657,64,804,91"/>
+</map>

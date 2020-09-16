@@ -1,0 +1,7 @@
+<map id="souffle::ast::StringConstant::clone" name="souffle::ast::StringConstant::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_constant.html#a9af8dcfd680d849d228893dd2a19ab33" title="Get string representation of Constant. " alt="" coords="271,5,431,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="283,71,419,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_string_constant.html#a008567d1778d864df9f6ad25674fafaf" title="souffle::ast::StringConstant\l::StringConstant" alt="" coords="252,136,451,177"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_constant.html#ad022ae63072122763a95ded68c3e06db" title="souffle::ast::Constant\l::Constant" alt="" coords="499,103,659,144"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_node.html#a8eab0e38c9a5343d641d5b2eb631733a" title="Set source location for the Node. " alt="" coords="511,168,647,209"/>
+</map>

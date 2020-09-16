@@ -1,0 +1,6 @@
+<map id="souffle::ast::BranchInit::clone" name="souffle::ast::BranchInit::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_branch_init.html#a3de1ab8b10911dfde154ce463dbc72e7" title="souffle::ast::BranchInit\l::BranchInit" alt="" coords="221,5,389,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="251,71,360,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="237,123,373,164"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_term.html#a3018b8a7c5ca088a45d7afba8ee3e7ea" title="souffle::ast::Term\l::Term" alt="" coords="437,5,572,47"/>
+</map>

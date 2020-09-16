@@ -1,0 +1,12 @@
+<map id="souffle::ast::transform::ResolveAliasesTransformer::clone" name="souffle::ast::transform::ResolveAliasesTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_resolve_aliases_transformer.html#a8a8fedd9980f211e64a96909eb12fcc0" title="souffle::ast::transform\l::ResolveAliasesTransformer\l::transform" alt="" coords="260,122,467,178"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="515,5,689,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="517,71,687,112"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="515,137,689,163"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1_program.html#a2d97408e345d7b58598a90f655eb49fd" title="Remove a clause. " alt="" coords="523,188,681,229"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_program.html#a6e242189a740536f24b73c7d2440636a" title="Add a clause. " alt="" coords="523,253,681,295"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="737,67,907,108"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="960,67,1096,108"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="743,132,901,173"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="955,139,1101,166"/>
+</map>

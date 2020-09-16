@@ -1,0 +1,5 @@
+<map id="souffle::InterpreterScan" name="souffle::InterpreterScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_interpreter_node.html" title="This is a shadow node for a ram::Node that is enriched for with local information so that the interpr..." alt="" coords="264,263,441,399"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_node.html" title="Node is a superclass for all RAM IR classes. " alt="" coords="5,5,148,200"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1_interpreter_nested_operation.html" title="Encode a nested operation for the interpreter node. " alt="" coords="514,277,741,384"/>
+</map>

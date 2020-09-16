@@ -1,0 +1,12 @@
+<map id="souffle::ast::BindingStore::BindingStore" name="souffle::ast::BindingStore::BindingStore">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_binding_store.html#aeaeacd7a0f26b0bf727bc1fa53ed21a5" title="Generate all binding dependencies implied by the constraints within a given clause. " alt="" coords="239,115,468,156"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_binding_store.html#a9437db80e5dd371034346c6f5e834a98" title="Reduce the full set of dependencies for all tracked variables, binding whatever needs to be bound..." alt="" coords="1008,199,1193,240"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="783,5,952,47"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a4754227050fac00fea834edec17b6862" title="Return binary operator. " alt="" coords="516,49,727,91"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_binding_store.html#a7e2dc876530651593831013f90221ad1" title="Add binding dependencies formed on lhs by a &lt;lhs&gt; = &lt;rhs&gt; equality constraint. " alt="" coords="527,115,716,156"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1016,5,1185,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1266,5,1402,47"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_binding_store.html#a3749c01d9f0c23adee2f134b4d3c9a24" title="Add a new conjunction of variables as a potential binder for a given variable. " alt="" coords="775,125,960,167"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="1475,150,1604,177"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1_binding_store.html#a756367f4c817ffaceb0f309cd33f2688" title="Reduce a conjunctive set of dependencies based on the current bound variable set. ..." alt="" coords="1241,143,1427,184"/>
+</map>

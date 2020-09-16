@@ -1,0 +1,6 @@
+<map id="souffle::ast::ComponentType::clone" name="souffle::ast::ComponentType::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_component_type.html#a99430df1c1024db788b647e25875b732" title="souffle::ast::ComponentType\l::ComponentType" alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="295,71,431,112"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_node.html#a2317760f042742653d90496a6d4dfa2d" title="souffle::ast::Node\l::Node" alt="" coords="515,5,651,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_node.html#ab6ffbc606765b82b0c511df3760e642b" title="souffle::ast::Node\l::~Node" alt="" coords="699,5,835,47"/>
+</map>

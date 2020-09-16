@@ -1,0 +1,5 @@
+<map id="souffle::ast::Program::addType" name="souffle::ast::Program::addType">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="237,5,341,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_program.html#a25337b5995e89a29e38a30cf7c859dea" title="Return types. " alt="" coords="211,57,368,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="416,64,563,91"/>
+</map>

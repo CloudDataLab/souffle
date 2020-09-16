@@ -1,0 +1,6 @@
+<map id="souffle::ast::cloneHead" name="souffle::ast::cloneHead">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="243,5,352,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_clause.html#aa14e0157716ca749fd1416c597f2f839" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="224,57,371,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="224,122,371,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="229,187,365,229"/>
+</map>

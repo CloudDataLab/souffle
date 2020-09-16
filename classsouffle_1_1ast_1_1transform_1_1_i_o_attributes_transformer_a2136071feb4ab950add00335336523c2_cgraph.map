@@ -1,0 +1,17 @@
+<map id="souffle::ast::transform::IOAttributesTransformer::setAttributeParams" name="souffle::ast::transform::IOAttributesTransformer::setAttributeParams">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="247,43,420,85"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_relation.html#aa0ebaf146150082fce35101f164838ce" title="Return the arity of this relation. " alt="" coords="256,109,411,150"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_relation.html#af4b7b3d35ce50c9abde5ee44dd84e098" title="Get relation attributes. " alt="" coords="256,174,411,215"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a208f2cba6b32d097542187844eea2283" title="Return relation directives. " alt="" coords="255,239,412,281"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="475,378,648,419"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1transform_1_1_i_o_attributes_transformer.html#adec2a8fc2087d2bc60ffb040d29c8005" title="souffle::ast::transform\l::IOAttributesTransformer\l::getRecordsParams" alt="" coords="240,432,427,488"/>
+<area shape="rect" id="node14" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="245,305,421,332"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="482,57,641,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="480,5,643,32"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="696,239,843,265"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_program.html#a25337b5995e89a29e38a30cf7c859dea" title="Return types. " alt="" coords="483,443,640,485"/>
+<area shape="rect" id="node12" href="$classjson11_1_1_json.html#a4ae030733f6ebd910882afb9e2364b1a" title="json11::Json::is_null" alt="" coords="486,509,637,536"/>
+<area shape="rect" id="node13" href="$classjson11_1_1_json.html#aa9c2e69e711a000bdbd424e6b2f06139" title="json11::Json::type" alt="" coords="701,509,838,536"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="509,327,613,353"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="483,261,640,302"/>
+</map>

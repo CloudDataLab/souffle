@@ -1,0 +1,31 @@
+<map id="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::clone" name="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_magic_set_transformer.html#a52eae419e9aac4573b179e56a654b186" title="souffle::ast::transform\l::MagicSetTransformer\l::transform" alt="" coords="293,314,460,370"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1transform_1_1_magic_set_transformer.html#a89baab5fc4d088e9d147553782372c63" title="Gets set of relations to ignore during the MST process. " alt="" coords="508,314,675,370"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ast_1_1transform_1_1_magic_set_transformer.html#acc290fbbb2493ced7c90ae25acf420ed" title="Determines whether any part of the MST should be run. " alt="" coords="508,29,675,85"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ast_1_1transform_1_1_pipeline_transformer.html#aa3a0b9ac81e071f4b5d232c569fbabc2" title="souffle::ast::transform\l::PipelineTransformer\l::transform" alt="" coords="508,544,675,600"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1063,102,1225,129"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="801,220,930,246"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="779,154,952,195"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="778,270,953,297"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_intrinsic_functor.html#a7a3d9099620a867dbedf7990903dc7c0" title="Get function information. " alt="" coords="765,322,966,363"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a4754227050fac00fea834edec17b6862" title="Return binary operator. " alt="" coords="760,387,971,428"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="779,36,952,78"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="791,452,939,494"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1_qualified_name.html#a3f497c99ea877f1bb52422ce8ccb2761" title="get qualifiers " alt="" coords="766,518,965,559"/>
+<area shape="rect" id="node16" href="$namespacesouffle.html#a673608e9453179d30f6607384f54463a" title="Splits a string given a delimiter. " alt="" coords="795,584,935,610"/>
+<area shape="rect" id="node17" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="781,635,950,676"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="1065,154,1223,195"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="1065,263,1223,304"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1297,270,1444,297"/>
+<area shape="rect" id="node18" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1059,608,1229,650"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1303,602,1439,643"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1ast_1_1transform_1_1_meta_transformer.html#a751253c87abc1a3aaf4da64fb2a6eadd" title="souffle::ast::transform\l::MetaTransformer::applySubtransformer" alt="" coords="723,732,1008,774"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="1093,681,1195,708"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#aa2a19006120091a83d662c3cfb56b528" title="souffle::ast::transform\l::Transformer::apply" alt="" coords="1061,732,1227,774"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#a69dfaf1387c8b03440b352ff7eebae4e" title="souffle::ast::transform\l::Transformer::getName" alt="" coords="1056,798,1232,839"/>
+<area shape="rect" id="node30" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="1073,864,1215,890"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1ast_1_1transform_1_1_transformer.html#af861b2e661819fa1038829fede6e1c4f" title="souffle::ast::transform\l::Transformer::transform" alt="" coords="1281,667,1461,708"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1ast_1_1_translation_unit.html#a21eda9cc1cd3cc9b103024ce321c7f68" title="Destroy all cached analyses of translation unit. " alt="" coords="1280,732,1461,774"/>
+<area shape="rect" id="node27" href="$classsouffle_1_1ast_1_1_translation_unit.html#aef07b6bafd4cb6dfc3341a084465bc5f" title="Return error report. " alt="" coords="1284,798,1457,839"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_error_report.html#a73c2f7628f4d59c405beb81be36ac228" title="souffle::ErrorReport\l::exitIfErrors" alt="" coords="1297,863,1444,904"/>
+</map>

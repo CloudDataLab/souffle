@@ -1,0 +1,13 @@
+<map id="souffle::ast::transform::ResolveAnonymousRecordAliasesTransformer::replaceNamedVariables" name="souffle::ast::transform::ResolveAnonymousRecordAliasesTransformer::replaceNamedVariables">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_clause.html#a138ceb2c623cd11e6f8fda6b42b04824" title="Apply the mapper to all child nodes. " alt="" coords="388,5,535,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="407,71,516,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1transform_1_1_resolve_anonymous_record_aliases_transformer.html#ae65f4e72ef769b406c0071339573ba76" title="For each variable equal to some anonymous record, assign a value of that record. " alt="" coords="316,122,607,178"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="690,13,793,39"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="655,64,828,105"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="668,129,815,171"/>
+<area shape="rect" id="node11" href="$namespacesouffle_1_1ast_1_1analysis.html#a108a2d9570b44c655bf3165e8d8613d4" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="663,195,819,236"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="657,261,825,287"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="878,13,1037,55"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="876,79,1039,106"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="884,137,1031,163"/>
+</map>

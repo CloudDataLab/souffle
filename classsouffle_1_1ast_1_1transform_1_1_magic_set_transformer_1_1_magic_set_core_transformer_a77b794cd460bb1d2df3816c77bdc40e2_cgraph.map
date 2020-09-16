@@ -1,0 +1,7 @@
+<map id="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::createMagicClause" name="souffle::ast::transform::MagicSetTransformer::MagicSetCoreTransformer::createMagicClause">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="281,5,390,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="271,56,400,83"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="251,107,420,149"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="468,107,637,149"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="685,107,821,149"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="souffle::ast::transform::IODefaultsTransformer::setDefaults" name="souffle::ast::transform::IODefaultsTransformer::setDefaults">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_program.html#a897db58fd866b84e62294376112f8b1c" title="Add relation directive. " alt="" coords="241,5,398,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="238,71,401,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html#a208f2cba6b32d097542187844eea2283" title="Return relation directives. " alt="" coords="241,123,398,164"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="233,188,406,229"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1transform_1_1_i_o_defaults_transformer.html#a00bdc3e2512d8e8cbaeec0b42e9354e2" title="Get the relation name from the qualified name. " alt="" coords="231,254,408,310"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="482,130,629,157"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_directive.html#a915a8f0f433a04786a199fb68cc4cb2a" title="Get relation name. " alt="" coords="475,188,636,229"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_qualified_name.html#a3f497c99ea877f1bb52422ce8ccb2761" title="get qualifiers " alt="" coords="456,253,655,295"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="506,319,605,346"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="493,370,618,397"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="souffle::ast::transform::test::TEST" name="souffle::ast::transform::test::TEST">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_minimise_program_transformer.html#a4569efff588a2bad743b94003adbfd7d" title="souffle::ast::transform\l::MinimiseProgramTransformer\l::areBijectivelyEquivalent" alt="" coords="220,129,443,185"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="244,274,419,301"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1_parser_driver.html#a24903f948735cea332d950fe68c484aa" title="souffle::ParserDriver\l::parseTranslationUnit" alt="" coords="249,325,413,367"/>
+<area shape="rect" id="node15" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="269,391,394,418"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a7b51b8951309e7c2adf5ba36bfb71eb6" title="souffle::ast::analysis\l::NormalisedClause::getConstants" alt="" coords="506,5,749,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a5608249498888fcc806a1ab15cb49926" title="souffle::ast::analysis\l::NormalisedClause::getElements" alt="" coords="508,71,747,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a44f4d61d54d7fe77e4b8b7a9f28f2591" title="souffle::ast::analysis\l::NormalisedClause::getVariables" alt="" coords="508,136,747,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a8e7350df5aa944f7565d5c1b2e2c1700" title="souffle::ast::analysis\l::NormalisedClause::isFullyNormalised" alt="" coords="491,201,764,243"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="549,267,706,308"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="812,265,959,291"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1_parser_driver.html#a2209f59a1f90f0ae0267691e360bbeba" title="souffle::ParserDriver\l::parse" alt="" coords="550,341,705,383"/>
+<area shape="rect" id="node12" href="$_parser_driver_8cpp.html#a27fd9b6b0c9a907d6781e30d529e39d9" title="yylex_destroy" alt="" coords="828,315,943,342"/>
+<area shape="rect" id="node13" href="$_parser_driver_8cpp.html#a45c0eb07993a6eca6aab8fce3ffecea4" title="yylex_init_extra" alt="" coords="822,366,949,393"/>
+<area shape="rect" id="node14" href="$_parser_driver_8cpp.html#a105b0061f1fb49827305f5d1bad07b91" title="yyset_in" alt="" coords="847,417,924,443"/>
+</map>

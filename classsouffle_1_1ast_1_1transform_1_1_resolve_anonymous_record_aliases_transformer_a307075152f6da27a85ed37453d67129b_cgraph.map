@@ -1,0 +1,5 @@
+<map id="souffle::ast::transform::ResolveAnonymousRecordAliasesTransformer::replaceUnnamedVariable" name="souffle::ast::transform::ResolveAnonymousRecordAliasesTransformer::replaceUnnamedVariable">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_clause.html#a138ceb2c623cd11e6f8fda6b42b04824" title="Apply the mapper to all child nodes. " alt="" coords="336,5,483,47"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="325,71,493,98"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="541,13,644,39"/>
+</map>

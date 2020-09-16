@@ -1,0 +1,10 @@
+<map id="souffle::ast::transform::FoldAnonymousRecords::containsValidRecordConstraint" name="souffle::ast::transform::FoldAnonymousRecords::containsValidRecordConstraint">
+<area shape="rect" id="node2" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="309,15,439,42"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1transform_1_1_fold_anonymous_records.html#aaa0cdfc93ce346a7eeff1ec3a6202bd0" title="Determine if binary constraint can be expanded. " alt="" coords="281,66,467,122"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="289,156,459,197"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a8b1cd3e36ee98ec2d286ce74ccdeaea1" title="Return left&#45;hand side argument. " alt="" coords="515,5,726,47"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="537,71,705,98"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a269a51553c86cbb637013907c879f478" title="Negated Constraint Operator Each operator requires a negated operator which is necessary for the expa..." alt="" coords="515,122,727,149"/>
+<area shape="rect" id="node8" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="536,173,705,215"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="775,173,911,215"/>
+</map>

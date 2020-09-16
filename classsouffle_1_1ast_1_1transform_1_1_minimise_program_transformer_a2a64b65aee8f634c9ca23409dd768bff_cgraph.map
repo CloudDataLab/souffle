@@ -1,0 +1,7 @@
+<map id="souffle::ast::transform::MinimiseProgramTransformer::getName" name="souffle::ast::transform::MinimiseProgramTransformer::getName">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_minimise_program_transformer.html#a4569efff588a2bad743b94003adbfd7d" title="souffle::ast::transform\l::MinimiseProgramTransformer\l::areBijectivelyEquivalent" alt="" coords="276,97,499,153"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a7b51b8951309e7c2adf5ba36bfb71eb6" title="souffle::ast::analysis\l::NormalisedClause::getConstants" alt="" coords="562,5,805,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a5608249498888fcc806a1ab15cb49926" title="souffle::ast::analysis\l::NormalisedClause::getElements" alt="" coords="564,71,803,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a44f4d61d54d7fe77e4b8b7a9f28f2591" title="souffle::ast::analysis\l::NormalisedClause::getVariables" alt="" coords="564,136,803,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a8e7350df5aa944f7565d5c1b2e2c1700" title="souffle::ast::analysis\l::NormalisedClause::isFullyNormalised" alt="" coords="547,201,820,243"/>
+</map>

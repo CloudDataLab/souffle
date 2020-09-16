@@ -1,0 +1,4 @@
+<map id="souffle::ast::analysis::PrecedenceGraphAnalysis" name="souffle::ast::analysis::PrecedenceGraphAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_analysis.html" title="Abstract class for a AST Analysis. " alt="" coords="5,277,161,428"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_graph.html" title="{souffle::Graph\&lt; const\l souffle::ast::Relation\l *, souffle::ast::NameComparison \&gt;\n||+ clique()\l+ contains()\l+ contains()\l+ insert()\l+ insert()\l+ predecessors()\l+ print()\l+ reaches()\l+ successors()\l+ vertices()\l+ visitDepthFirst()\l&#45; visitDepthFirst()\l}" alt="" coords="186,219,439,487"/>
+</map>

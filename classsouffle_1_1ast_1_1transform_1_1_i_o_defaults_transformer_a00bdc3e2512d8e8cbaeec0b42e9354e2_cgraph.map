@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::IODefaultsTransformer::getRelationName" name="souffle::ast::transform::IODefaultsTransformer::getRelationName">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_directive.html#a915a8f0f433a04786a199fb68cc4cb2a" title="Get relation name. " alt="" coords="249,5,411,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_qualified_name.html#a3f497c99ea877f1bb52422ce8ccb2761" title="get qualifiers " alt="" coords="231,71,429,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="281,137,379,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="267,187,393,214"/>
+</map>

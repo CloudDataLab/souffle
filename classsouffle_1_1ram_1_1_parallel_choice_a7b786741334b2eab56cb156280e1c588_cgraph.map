@@ -1,0 +1,7 @@
+<map id="souffle::ram::ParallelChoice::clone" name="souffle::ram::ParallelChoice::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="308,5,417,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="253,57,472,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_nested_operation.html#af409277f57f3310ada9cdd1e37772c59" title="Get profile text. " alt="" coords="253,122,472,163"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="259,187,466,229"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_parallel_choice.html#ad686a171154281e33c455ff5c78a2350" title="souffle::ram::ParallelChoice\l::ParallelChoice" alt="" coords="263,253,463,294"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="souffle::ast::transform::RemoveRedundantSumsTransformer::clone" name="souffle::ast::transform::RemoveRedundantSumsTransformer::clone">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_remove_redundant_sums_transformer.html#aa7426aad8b5f1f94ab41c1c17b1979f4" title="souffle::ast::transform\l::RemoveRedundantSumsTransformer\l::transform" alt="" coords="320,71,587,127"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1test.html#a10453085bc4f71f32dcda443d4b3c446" title="souffle::test::count" alt="" coords="650,5,793,32"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="667,56,776,83"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="635,107,808,149"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_program.html#ada52fa87a44d5fda0734645f0375b2bf" title="Apply the mapper to all child nodes. " alt="" coords="643,173,800,214"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="856,180,959,207"/>
+</map>

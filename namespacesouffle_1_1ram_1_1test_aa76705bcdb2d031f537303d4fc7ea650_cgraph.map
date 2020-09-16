@@ -1,0 +1,8 @@
+<map id="souffle::ram::test::TEST" name="souffle::ram::test::TEST">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_parallel_index_scan.html#a586f3b9cb6e28e99decbdc84f5f6e84b" title="Create a clone (i.e. " alt="" coords="187,122,379,163"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="481,5,591,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="427,57,645,98"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1_nested_operation.html#af409277f57f3310ada9cdd1e37772c59" title="Get profile text. " alt="" coords="427,122,645,163"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1_tuple_operation.html#a1f082c6200dc984a4e7b230b7458866c" title="Get identifier. " alt="" coords="433,187,639,229"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ram_1_1_parallel_index_scan.html#aecf2f65efab7b5f94edd397030084d19" title="souffle::ram::ParallelIndex\lScan::ParallelIndexScan" alt="" coords="440,253,632,294"/>
+</map>

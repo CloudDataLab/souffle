@@ -1,0 +1,14 @@
+<map id="souffle::NodeGenerator::encodeIndexPos" name="souffle::NodeGenerator::encodeIndexPos">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#abd1cd7d94f5928e8cbe5f78b42908360" title="souffle::ram::analysis\l::SearchSignature::arity" alt="" coords="568,8,743,50"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#a817f6680ca101228111ef9823ea11582" title="souffle::ram::analysis\l::SearchSignature::empty" alt="" coords="267,204,454,246"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#ac1f80126eab5752a06c3847f3fa37835" title="souffle::ram::analysis\l::SearchSignature::getFullSearch\lSignature" alt="" coords="245,58,476,114"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1analysis_1_1_index_analysis.html#a6c856d20881b15e8d9feb1397126e18f" title="get the minimal index cover for a relation " alt="" coords="260,270,461,311"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1analysis_1_1_min_index_selection.html#a8a122a8b2c1cb552fd19e57cd2779e14" title="Get index for a search " alt="" coords="227,335,495,376"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ram_1_1analysis_1_1_index_analysis.html#a2069fe9fe54585abf5716c164033adc1" title="Get index signature for an Ram IndexOperation operation " alt="" coords="233,139,489,180"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="604,342,707,369"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ram_1_1_relation_operation.html#a8ec015b8c6fa6882651e9bf1a943f41d" title="Get search relation. " alt="" coords="543,74,768,115"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ram_1_1_relation.html#a3a6283617c07b8e058715018648fb99e" title="Get arity of relation. " alt="" coords="575,139,736,180"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ram_1_1_index_operation.html#aa97304925d66e5f54ea0aee73baafd2b" title="Get range pattern. " alt="" coords="551,204,759,246"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1ram.html#a0d10001e285b2d129058d9e7b81d85bd" title="Determines if an expression represents an undefined value. " alt="" coords="558,270,753,297"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="816,212,963,238"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="souffle::InterpreterQuery" name="souffle::InterpreterQuery">
+<area shape="rect" id="node2" href="$classsouffle_1_1_interpreter_unary_node.html" title="Unary node represents interpreter node with a single child. " alt="" coords="346,469,562,561"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_interpreter_node.html" title="This is a shadow node for a ram::Node that is enriched for with local information so that the interpr..." alt="" coords="167,263,344,399"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_node.html" title="Node is a superclass for all RAM IR classes. " alt="" coords="5,5,148,200"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_interpreter_abstract_parallel.html" title="Interpreter node that utilizes parallel execution should inherit from this class. ..." alt="" coords="586,461,783,568"/>
+</map>

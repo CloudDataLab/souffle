@@ -1,0 +1,5 @@
+<map id="souffle::ast::IntrinsicFunctor::clone" name="souffle::ast::IntrinsicFunctor::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="301,5,410,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="287,57,423,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_intrinsic_functor.html#a97815407b4c944187d1633df612646a8" title="souffle::ast::IntrinsicFunctor\l::IntrinsicFunctor" alt="" coords="255,122,456,163"/>
+</map>

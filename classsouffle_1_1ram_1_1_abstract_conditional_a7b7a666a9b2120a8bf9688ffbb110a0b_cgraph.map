@@ -1,0 +1,4 @@
+<map id="souffle::ram::AbstractConditional::equal" name="souffle::ram::AbstractConditional::equal">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1_nested_operation.html#a687b2c4e5c58d0da6a6d39ac52849c4e" title="Equality check for two RAM nodes. " alt="" coords="289,5,508,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ab097fb451e787a08a185a449bacde2db" title="Compares two values referenced by a pointer where the case where both pointers are null is also consi..." alt="" coords="556,42,691,69"/>
+</map>

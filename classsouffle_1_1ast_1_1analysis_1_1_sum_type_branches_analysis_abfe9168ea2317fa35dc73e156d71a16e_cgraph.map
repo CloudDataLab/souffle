@@ -1,0 +1,13 @@
+<map id="souffle::ast::analysis::SumTypeBranchesAnalysis::run" name="souffle::ast::analysis::SumTypeBranchesAnalysis::run">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="301,35,475,76"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="301,100,475,141"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#a4c292ab6493aa103783a6e122fe6f2cc" title="souffle::ast::analysis\l::TypeEnvironment::getType" alt="" coords="287,165,489,207"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_program.html#a25337b5995e89a29e38a30cf7c859dea" title="Return types. " alt="" coords="309,231,467,272"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#a84f9f89b96d9c2377a810642044f7d5e" title="souffle::ast::analysis\l::TypeEnvironment::isType" alt="" coords="292,296,484,337"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="303,361,473,403"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="543,5,701,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="541,71,703,98"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="549,238,695,265"/>
+<area shape="rect" id="node11" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="537,361,707,403"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="755,361,891,403"/>
+</map>

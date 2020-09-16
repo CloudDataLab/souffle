@@ -1,0 +1,5 @@
+<map id="souffle::ram::analysis::Analysis" name="souffle::ram::analysis::Analysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1analysis_1_1_complexity_analysis.html" title="A Ram Analysis for determining the number of relational operations in a condition / expression..." alt="" coords="5,263,183,384"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1analysis_1_1_index_analysis.html" title="{souffle::ram::analysis\l::IndexAnalysis\n|+ name\l&#45; minIndexCover\l|+ getIndexes()\l+ getIndexes()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ getSearchSignature()\l+ IndexAnalysis()\l+ isTotalSignature()\l+ print()\l+ run()\l}" alt="" coords="207,204,381,443"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1analysis_1_1_level_analysis.html" title="A Ram Analysis for determining the level of a expression/condition. " alt="" coords="406,263,569,384"/>
+</map>

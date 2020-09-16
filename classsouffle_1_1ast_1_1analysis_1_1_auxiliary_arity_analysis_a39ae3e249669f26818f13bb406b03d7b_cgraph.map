@@ -1,0 +1,9 @@
+<map id="souffle::ast::analysis::AuxiliaryArityAnalysis::getArity" name="souffle::ast::analysis::AuxiliaryArityAnalysis::getArity">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_auxiliary_arity_analysis.html#af72458bb348b4275567d6b94846e370f" title="Returns the number of auxiliary parameters of a relation. " alt="" coords="229,5,403,61"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="242,86,390,127"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="228,152,404,179"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="452,20,615,47"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="481,123,585,149"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="455,174,612,215"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="663,181,809,208"/>
+</map>

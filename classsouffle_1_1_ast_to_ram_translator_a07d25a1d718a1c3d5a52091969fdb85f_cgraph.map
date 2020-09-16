@@ -1,0 +1,51 @@
+<map id="souffle::AstToRamTranslator::translateRecursiveRelation" name="souffle::AstToRamTranslator::translateRecursiveRelation">
+<area shape="rect" id="node2" href="$namespacesouffle.html#afb84ed0359bc7dedef3c2cd5ab56ad86" title="append statement to a list of statements " alt="" coords="607,510,761,537"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="629,561,739,587"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="876,662,1039,689"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_log_statement.html#ab513495693c81a0ea695db9841a3c42f" title="souffle::LogStatement\l::cRecursiveRelation" alt="" coords="302,1492,467,1533"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="905,1683,1009,1710"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ram_1_1_relation_reference.html#a16827e97bd09585e1b9129417918a593" title="Get reference. " alt="" coords="257,1558,512,1585"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ram_1_1_relation.html#a3a6283617c07b8e058715018648fb99e" title="Get arity of relation. " alt="" coords="304,1609,465,1651"/>
+<area shape="rect" id="node12" href="$namespacesouffle_1_1ast.html#a1cd3603ceb19cd0d014f1e0da9312c18" title="Returns the relation referenced by the given atom. " alt="" coords="279,225,490,251"/>
+<area shape="rect" id="node17" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="597,1406,771,1433"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1analysis_1_1_i_o_type_analysis.html#a74183a6924d4378cf9e850393affce8c" title="souffle::ast::analysis\l::IOTypeAnalysis::getLimitSize" alt="" coords="275,1675,494,1716"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ram_1_1_relation.html#acc732e6ee35f3aac4753d0d074f262d5" title="Relation representation type. " alt="" coords="304,1740,465,1781"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ast_1_1analysis_1_1_i_o_type_analysis.html#a74f40f2c8b57f2d26908711cfa0bbbe1" title="souffle::ast::analysis\l::IOTypeAnalysis::isLimitSize" alt="" coords="281,1805,489,1847"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1_ast_to_ram_translator.html#a913041ee3911b903e0d89373820d44bb" title="assigns names to unnamed variables such that enclosing constructs may be cloned without losing the va..." alt="" coords="583,393,785,435"/>
+<area shape="rect" id="node23" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="1145,611,1271,638"/>
+<area shape="rect" id="node24" href="$classsouffle_1_1_log_statement.html#a383a2089a685391e437ae6bac602458f" title="souffle::LogStatement\l::nRecursiveRelation" alt="" coords="302,1871,467,1912"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1_log_statement.html#a6b8c16b9fff280cb8f2fc91ed1a5a279" title="souffle::LogStatement\l::nRecursiveRule" alt="" coords="302,1936,467,1977"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1ast_1_1analysis_1_1_recursive_clauses_analysis.html#a954fc9dd03948f91dbcc606a8085f86f" title="souffle::ast::analysis\l::RecursiveClausesAnalysis\l::recursive" alt="" coords="585,1158,783,1214"/>
+<area shape="rect" id="node27" href="$namespacesouffle.html#a06f428910159c119c1dcdcab76ab7dfa" title="Stringify a string using escapes for escape, newline, tab, double&#45;quotes and semicolons. " alt="" coords="893,1013,1021,1039"/>
+<area shape="rect" id="node28" href="$classsouffle_1_1_ast_to_ram_translator_1_1_clause_translator.html#aa8b3897694b63d7dfd3fe74cd2c553db" title="generate RAM code for a clause " alt="" coords="560,1340,808,1381"/>
+<area shape="rect" id="node37" href="$classsouffle_1_1_ast_to_ram_translator.html#a565bdad6e2408dfa2722adaffddec5a4" title="translate a temporary delta relation to a RAM relation for semi&#45;naive evaluation " alt="" coords="283,335,486,376"/>
+<area shape="rect" id="node38" href="$classsouffle_1_1_ast_to_ram_translator.html#aa7b0f38eb1d9f876afff1fc8a1e553f8" title="a utility to translate atoms to relations " alt="" coords="583,276,785,317"/>
+<area shape="rect" id="node41" href="$classsouffle_1_1_ast_to_ram_translator.html#a257073a3ca96e213634c273bf16bdd5d" title="translate a temporary new relation to a RAM relation for semi&#45;naive evaluation " alt="" coords="1107,221,1309,263"/>
+<area shape="rect" id="node42" href="$classsouffle_1_1_ast_to_ram_translator.html#a0d45e9f28b6319eb048401805b71f1c9" title="translate RAM code for the non&#45;recursive clauses of the given relation. " alt="" coords="269,877,500,919"/>
+<area shape="rect" id="node49" href="$classsouffle_1_1_log_statement.html#af3b39b1b91febc77a76186a215885407" title="souffle::LogStatement\l::tRecursiveRelation" alt="" coords="302,2001,467,2043"/>
+<area shape="rect" id="node50" href="$classsouffle_1_1_log_statement.html#a23844d4651a50fbf21d1afd9e5823ac9" title="souffle::LogStatement\l::tRecursiveRule" alt="" coords="302,2067,467,2108"/>
+<area shape="rect" id="node7" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1137,1683,1279,1710"/>
+<area shape="rect" id="node8" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1357,1683,1508,1710"/>
+<area shape="rect" id="node9" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1556,1658,1761,1685"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="596,174,772,201"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="883,331,1031,372"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="905,178,1009,205"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="879,112,1036,153"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="879,1617,1036,1659"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="1359,1457,1506,1499"/>
+<area shape="rect" id="node30" href="$namespacesouffle_1_1ast.html#ad6da4b3c542f0471e3af4a47e3978e23" title="Returns whether the given clause is a fact. " alt="" coords="1139,1515,1277,1542"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1359,1540,1506,1581"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="889,1165,1026,1207"/>
+<area shape="rect" id="node33" href="$namespacesouffle_1_1ast.html#a74c493b241ac08b44c2136e4cc7d2efe" title="Returns whether the given clause is a rule. " alt="" coords="887,1347,1028,1374"/>
+<area shape="rect" id="node34" href="$classsouffle_1_1_ast_to_ram_translator.html#a6ebd4b73e9eab3565161e7e3c671ae35" title="create a RAM element access node " alt="" coords="856,1231,1059,1272"/>
+<area shape="rect" id="node35" href="$namespacesouffle_1_1ram.html#a0d10001e285b2d129058d9e7b81d85bd" title="Determines if an expression represents an undefined value. " alt="" coords="860,1297,1055,1323"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1ast_1_1_atom.html#a856edf15bd518f5582e0bd110f5ce3d7" title="Return arity of the atom. " alt="" coords="889,1399,1026,1440"/>
+<area shape="rect" id="node39" href="$classsouffle_1_1_ast_to_ram_translator.html#afa4b1c82bd4fce9ad2b556c2f46dd3d3" title="create a reference to a RAM relation " alt="" coords="1107,341,1309,383"/>
+<area shape="rect" id="node40" href="$classsouffle_1_1_ast_to_ram_translator.html#a50c4545e4c75c113dfc546eaf4f875ca" title="converts the given relation identifier into a relation name " alt="" coords="856,396,1059,437"/>
+<area shape="rect" id="node43" href="$classsouffle_1_1ast_1_1_relation.html#aec7a180cc23c066453f1e97e9957ccfe" title="Get qualified relation name. " alt="" coords="607,779,761,820"/>
+<area shape="rect" id="node44" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="616,844,752,885"/>
+<area shape="rect" id="node45" href="$classsouffle_1_1_log_statement.html#ac502b839addc7379a053521c0890b623" title="souffle::LogStatement\l::nNonrecursiveRelation" alt="" coords="595,909,773,951"/>
+<area shape="rect" id="node46" href="$classsouffle_1_1_log_statement.html#a4e7b4c89e280400869484801019f57c6" title="souffle::LogStatement\l::nNonrecursiveRule" alt="" coords="601,1027,767,1068"/>
+<area shape="rect" id="node47" href="$classsouffle_1_1_log_statement.html#ae42dd7b19f66872b5b0158a89ee7742e" title="souffle::LogStatement\l::tNonrecursiveRelation" alt="" coords="597,1092,771,1133"/>
+<area shape="rect" id="node48" href="$classsouffle_1_1_log_statement.html#a36b3bfb492cf338cc97597f3397e8533" title="souffle::LogStatement\l::tNonrecursiveRule" alt="" coords="601,713,767,755"/>
+</map>

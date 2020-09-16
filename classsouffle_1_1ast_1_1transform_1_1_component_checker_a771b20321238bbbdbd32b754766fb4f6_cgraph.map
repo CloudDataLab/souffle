@@ -1,0 +1,5 @@
+<map id="souffle::ast::transform::ComponentChecker::checkComponents" name="souffle::ast::transform::ComponentChecker::checkComponents">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_program.html#a60a1eaea43a714d727406e2cac253a01" title="Return component instantiation. " alt="" coords="340,5,555,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html#ae4b316d61dcc48dd7502e799f4f0c72a" title="Return components. " alt="" coords="369,71,526,112"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="603,46,749,73"/>
+</map>

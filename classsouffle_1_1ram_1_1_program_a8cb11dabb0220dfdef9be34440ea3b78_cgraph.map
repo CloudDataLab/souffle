@@ -1,0 +1,6 @@
+<map id="souffle::ram::Program::clone" name="souffle::ram::Program::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="260,5,369,32"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ram.html#ae8f9feae749370f84ae61bb4733070d3" title="Creates a node mapper based on a corresponding lambda expression. " alt="" coords="216,57,413,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_program.html#a9e8425c450e22df658197b76516d571c" title="souffle::ram::Program\l::Program" alt="" coords="233,122,396,163"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast_1_1analysis.html#af454c8b25ece926ca5206774d8f23be1" title="A generic factory for constraints of the form. " alt="" coords="221,188,408,215"/>
+</map>

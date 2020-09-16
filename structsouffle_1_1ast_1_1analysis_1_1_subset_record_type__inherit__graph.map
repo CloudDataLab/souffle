@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::SubsetRecordType" name="souffle::ast::analysis::SubsetRecordType">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_subset_type.html" title="A type being a subset of another type. " alt="" coords="5,285,161,406"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_type.html" title="An abstract base class for types to be covered within a type environment. " alt="" coords="82,5,263,229"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1ast_1_1analysis_1_1_record_type.html" title="A record type combining a list of fields into a new, aggregated type. " alt="" coords="185,277,341,413"/>
+</map>

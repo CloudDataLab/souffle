@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::SemanticCheckerImpl::isDependent" name="souffle::ast::transform::SemanticCheckerImpl::isDependent">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1ast_1_1analysis.html#a108a2d9570b44c655bf3165e8d8613d4" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="233,5,389,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="227,71,396,112"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="444,71,613,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="661,71,797,112"/>
+</map>

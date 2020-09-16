@@ -1,0 +1,32 @@
+<map id="souffle::ast::transform::RemoveRelationCopiesTransformer::getName" name="souffle::ast::transform::RemoveRelationCopiesTransformer::getName">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1transform_1_1_remove_relation_copies_transformer.html#a5b9ed2a8624e1caef78b6a741a450c78" title="Replaces copies of relations by their origin in the given program. " alt="" coords="312,485,571,541"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_translation_unit.html#a19431bc77b4a4e05d5a24e7b3807703d" title="get analysis: analysis is generated on the fly if not present " alt="" coords="1155,35,1328,76"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="1155,165,1328,207"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a4aa067ee069beebb52dff5ee7250fc5f" title="Returns a vector of clauses in the program describing the relation with the given name..." alt="" coords="634,441,809,467"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1ast.html#ad6da4b3c542f0471e3af4a47e3978e23" title="Returns whether the given clause is a fact. " alt="" coords="652,558,791,585"/>
+<area shape="rect" id="node14" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="901,732,1070,773"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#ae16e133691dd9963d4234b61e3cc203f" title="A function testing whether two containers are equal with the given Comparator. " alt="" coords="640,659,803,686"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="653,492,790,533"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="647,711,795,752"/>
+<area shape="rect" id="node20" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="897,387,1073,414"/>
+<area shape="rect" id="node23" href="$namespacesouffle_1_1ast.html#a6863e3c16fce00a37dbfb3291031a4f5" title="Remove relation and all its clauses from the program. " alt="" coords="619,309,824,335"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1ast_1_1_relation.html#aec7a180cc23c066453f1e97e9957ccfe" title="Get qualified relation name. " alt="" coords="644,776,799,817"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1_debug_report.html#ac0feb8780d23c2ca5d7700e4857b10c4" title="souffle::DebugReport\l::addSection" alt="" coords="1386,5,1545,47"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="1384,71,1547,98"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_program.html#a529839d448f4139ce2e4e87bcfe3201f" title="Return clauses. " alt="" coords="1387,433,1544,475"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1595,441,1741,467"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="1392,551,1539,592"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_intrinsic_functor.html#a7a3d9099620a867dbedf7990903dc7c0" title="Get function information. " alt="" coords="885,667,1086,708"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="912,601,1059,643"/>
+<area shape="rect" id="node15" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="1157,732,1326,773"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1397,732,1533,773"/>
+<area shape="rect" id="node21" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="1189,398,1293,425"/>
+<area shape="rect" id="node22" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="1387,364,1544,405"/>
+<area shape="rect" id="node24" href="$namespacesouffle_1_1ast.html#a575099d0db1a527134d072d5689b7cbb" title="Removes the set of clauses with the given relation name. " alt="" coords="883,100,1088,141"/>
+<area shape="rect" id="node26" href="$classsouffle_1_1ast_1_1_program.html#a284eccc6618ba1b451532e2eee4370bb" title="Remove relation. " alt="" coords="904,217,1067,259"/>
+<area shape="rect" id="node27" href="$namespacesouffle_1_1ast.html#acf3697d66e4ab6047687c5419bde6917" title="Removes the set of IOs with the given relation name. " alt="" coords="872,334,1099,361"/>
+<area shape="rect" id="node25" href="$classsouffle_1_1ast_1_1_program.html#a2d97408e345d7b58598a90f655eb49fd" title="Remove a clause. " alt="" coords="1163,100,1320,141"/>
+<area shape="rect" id="node28" href="$namespacesouffle_1_1ast.html#aec9470763ffe4e7bf5bc3f37aa3724ff" title="souffle::ast::getDirectives" alt="" coords="1147,297,1336,323"/>
+<area shape="rect" id="node30" href="$classsouffle_1_1ast_1_1_program.html#a5c3b146f5aca81f1dd1253f045be5c03" title="Remove a directive. " alt="" coords="1163,231,1320,272"/>
+<area shape="rect" id="node29" href="$classsouffle_1_1ast_1_1_program.html#a208f2cba6b32d097542187844eea2283" title="Return relation directives. " alt="" coords="1387,292,1544,333"/>
+</map>

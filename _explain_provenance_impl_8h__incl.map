@@ -1,0 +1,15 @@
+<map id="include/souffle/provenance/ExplainProvenanceImpl.h" name="include/souffle/provenance/ExplainProvenanceImpl.h">
+<area shape="rect" id="node2" href="$_binary_constraint_ops_8h.html" title="souffle/BinaryConstraint\lOps.h" alt="" coords="4003,184,4181,225"/>
+<area shape="rect" id="node4" href="$_misc_util_8h.html" title="souffle/utility/MiscUtil.h" alt="" coords="3803,370,3979,397"/>
+<area shape="rect" id="node16" href="$_ram_types_8h.html" title="souffle/RamTypes.h" alt="" coords="177,459,327,486"/>
+<area shape="rect" id="node21" href="$_souffle_interface_8h.html" title="souffle/SouffleInterface.h" alt="" coords="2363,191,2549,218"/>
+<area shape="rect" id="node22" href="$_symbol_table_8h.html" title="souffle/SymbolTable.h" alt="" coords="3027,281,3192,307"/>
+<area shape="rect" id="node25" href="$_stream_util_8h.html" title="souffle/utility/StreamUtil.h" alt="" coords="1845,370,2040,397"/>
+<area shape="rect" id="node29" href="$_container_util_8h.html" title="souffle/utility/Container\lUtil.h" alt="" coords="1206,452,1381,493"/>
+<area shape="rect" id="node37" href="$_explain_provenance_8h.html" title="souffle/provenance\l/ExplainProvenance.h" alt="" coords="2813,95,2976,136"/>
+<area shape="rect" id="node38" href="$_string_util_8h.html" title="souffle/utility/StringUtil.h" alt="" coords="742,370,927,397"/>
+<area shape="rect" id="node44" href="$_explain_tree_8h.html" title="souffle/provenance\l/ExplainTree.h" alt="" coords="1795,273,1941,315"/>
+<area shape="rect" id="node3" href="$_type_attribute_8h.html" title="souffle/TypeAttribute.h" alt="" coords="4142,281,4311,307"/>
+<area shape="rect" id="node5" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3723,459,3826,486"/>
+<area shape="rect" id="node23" href="$_parallel_util_8h.html" title="souffle/utility/Parallel\lUtil.h" alt="" coords="3227,363,3387,404"/>
+</map>

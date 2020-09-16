@@ -1,0 +1,17 @@
+<map id="souffle::ast::transform::ReorderLiteralsTransformer::reorderClauseWithSips" name="souffle::ast::transform::ReorderLiteralsTransformer::reorderClauseWithSips">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_clause.html#aa14e0157716ca749fd1416c597f2f839" title="Obtains the execution plan associated to this clause or null if there is none. " alt="" coords="767,5,914,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1transform_1_1_reorder_literals_transformer.html#aebac90dcdd1ba5cb0ad54b4160e65c58" title="Determines the new ordering of a clause after the given SIPS is applied. " alt="" coords="260,307,467,363"/>
+<area shape="rect" id="node10" href="$namespacesouffle_1_1ast.html#a2781f1f43ac535fd77728c0ea35ea4af" title="Reorders the atoms of a clause to be in the given order. " alt="" coords="268,169,459,195"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_binding_store.html#ab4e6155afcf06e3bf222533621196a41" title="Mark the given variable as strongly bound. " alt="" coords="515,380,700,421"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="539,315,676,356"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_binding_store.html#a9437db80e5dd371034346c6f5e834a98" title="Reduce the full set of dependencies for all tracked variables, binding whatever needs to be bound..." alt="" coords="748,380,933,421"/>
+<area shape="rect" id="node6" href="$namespacesouffle.html#af3295dd83a588d612cf777e600beac4a" title="A utility to check generically whether a given element is contained in a given container. " alt="" coords="1215,387,1344,414"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_binding_store.html#a756367f4c817ffaceb0f309cd33f2688" title="Reduce a conjunctive set of dependencies based on the current bound variable set. ..." alt="" coords="981,409,1167,451"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="767,290,914,317"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_clause.html#a7d36da64e75437f63fcaea9b5bdba5e8" title="Add a literal to the body of the clause. " alt="" coords="534,132,681,173"/>
+<area shape="rect" id="node12" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="786,202,895,229"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1ast.html#a29de8c1720372f7c78dcfabe84767118" title="Returns a clause which contains head of the given clause. " alt="" coords="522,81,693,107"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="534,249,681,291"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="767,71,914,112"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="773,136,909,177"/>
+</map>

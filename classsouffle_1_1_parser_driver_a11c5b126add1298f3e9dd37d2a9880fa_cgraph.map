@@ -1,0 +1,7 @@
+<map id="souffle::ParserDriver::addIoFromDeprecatedTag" name="souffle::ParserDriver::addIoFromDeprecatedTag">
+<area shape="rect" id="node2" href="$classsouffle_1_1_parser_driver.html#a685e7ff47e7adc7097b028e3286fa812" title="souffle::ParserDriver\l::addDirective" alt="" coords="248,5,403,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_relation.html#aec7a180cc23c066453f1e97e9957ccfe" title="Get qualified relation name. " alt="" coords="248,71,403,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_node.html#ac87a64ccec4ee0e470effeef0c6f3a0b" title="Return source location of the Node. " alt="" coords="257,136,393,177"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_relation.html#a4f64acf8983db2fb8ba59c9273c1cf20" title="Check for a relation qualifier. " alt="" coords="248,201,403,243"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="451,13,576,39"/>
+</map>

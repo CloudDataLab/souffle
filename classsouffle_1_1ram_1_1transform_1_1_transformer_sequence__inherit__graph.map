@@ -1,0 +1,4 @@
+<map id="souffle::ram::transform::TransformerSequence" name="souffle::ram::transform::TransformerSequence">
+<area shape="rect" id="node2" href="$classsouffle_1_1ram_1_1transform_1_1_meta_transformer.html" title="MetaTransformer &#160;Abstract class to identifier meta transformer " alt="" coords="13,189,185,281"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1transform_1_1_transformer.html" title="Transformer &#160;abstract transformer class for a translation unit " alt="" coords="13,5,185,141"/>
+</map>

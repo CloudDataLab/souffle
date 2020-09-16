@@ -1,0 +1,13 @@
+<map id="souffle::ast::analysis::Type" name="souffle::ast::analysis::Type">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_algebraic_data_type.html" title="Combination of types using sums and products. " alt="" coords="5,292,229,428"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_algebraic_data_type.html" title="Aggregates types using sums and products. " alt="" coords="253,285,416,435"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_constant_type.html" title="Representing the type assigned to a constant. " alt="" coords="441,314,597,406"/>
+<area shape="rect" id="node5" href="$structsouffle_1_1ast_1_1analysis_1_1_record_type.html" title="A record type combining a list of fields into a new, aggregated type. " alt="" coords="621,292,777,428"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1analysis_1_1_subset_type.html" title="A type being a subset of another type. " alt="" coords="801,299,957,421"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1analysis_1_1_union_type.html" title="A union type combining a list of types into a new, aggregated type. " alt="" coords="981,292,1139,428"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1_record_type.html" title="Record type class for record type declarations. " alt="" coords="1164,277,1340,443"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_subset_type.html" title="Defines subset type class. " alt="" coords="1364,292,1540,428"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_union_type.html" title="The union type class. " alt="" coords="1564,277,1735,443"/>
+<area shape="rect" id="node6" href="$structsouffle_1_1ast_1_1analysis_1_1_subset_record_type.html" title="Type representing a subset type derived from the record type. " alt="" coords="616,491,781,597"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1analysis_1_1_primitive_type.html" title="PrimitiveType = Number/Unsigned/Float/Symbol The class representing pre&#45;built, concrete types..." alt="" coords="806,491,962,597"/>
+</map>

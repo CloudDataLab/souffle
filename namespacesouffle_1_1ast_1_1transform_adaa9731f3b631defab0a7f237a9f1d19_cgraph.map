@@ -1,0 +1,9 @@
+<map id="souffle::ast::transform::usesInvalidWitness" name="souffle::ast::transform::usesInvalidWitness">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="253,5,362,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_aggregator.html#a4758136de8c11c3a217a06a7f464c053" title="Return body literals. " alt="" coords="220,57,395,98"/>
+<area shape="rect" id="node5" href="$namespacesouffle_1_1ast_1_1analysis.html#a108a2d9570b44c655bf3165e8d8613d4" title="Analyse the given clause and computes for each contained argument whether it is a grounded value or n..." alt="" coords="229,122,385,163"/>
+<area shape="rect" id="node6" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="223,187,392,229"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="454,64,601,91"/>
+<area shape="rect" id="node7" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="443,187,612,229"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="660,187,796,229"/>
+</map>

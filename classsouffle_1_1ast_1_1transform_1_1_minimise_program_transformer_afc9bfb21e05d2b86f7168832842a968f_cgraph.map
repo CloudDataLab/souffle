@@ -1,0 +1,5 @@
+<map id="souffle::ast::transform::MinimiseProgramTransformer::isValidPermutation" name="souffle::ast::transform::MinimiseProgramTransformer::isValidPermutation">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a7b51b8951309e7c2adf5ba36bfb71eb6" title="souffle::ast::analysis\l::NormalisedClause::getConstants" alt="" coords="276,5,519,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a5608249498888fcc806a1ab15cb49926" title="souffle::ast::analysis\l::NormalisedClause::getElements" alt="" coords="278,71,517,112"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a44f4d61d54d7fe77e4b8b7a9f28f2591" title="souffle::ast::analysis\l::NormalisedClause::getVariables" alt="" coords="278,136,517,177"/>
+</map>

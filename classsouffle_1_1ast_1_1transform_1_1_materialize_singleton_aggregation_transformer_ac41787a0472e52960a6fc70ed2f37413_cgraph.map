@@ -1,0 +1,22 @@
+<map id="souffle::ast::transform::MaterializeSingletonAggregationTransformer::transform" name="souffle::ast::transform::MaterializeSingletonAggregationTransformer::transform">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_program.html#a6e242189a740536f24b73c7d2440636a" title="Add a clause. " alt="" coords="386,5,543,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_program.html#a0b0ce5dd1c7904f562e6840dc9d117a9" title="souffle::ast::Program\l::addRelation" alt="" coords="691,297,848,339"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_clause.html#a7d36da64e75437f63fcaea9b5bdba5e8" title="Add a literal to the body of the clause. " alt="" coords="391,123,538,164"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_clause.html#a138ceb2c623cd11e6f8fda6b42b04824" title="Apply the mapper to all child nodes. " alt="" coords="391,188,538,229"/>
+<area shape="rect" id="node11" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="410,254,519,281"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1transform_1_1_materialize_singleton_aggregation_transformer.html#a58f5ac127d2b121dcb7667acac7ba30a" title="findUniqueAggregateRelationName returns a synthesised aggregate relation name that hasn&#39;t appeared in..." alt="" coords="296,355,633,411"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1transform_1_1_materialize_singleton_aggregation_transformer.html#a87f8faedfcca67d3668400ecbd991899" title="findUniqueVariableName returns a variable name that hasn&#39;t appeared in the given clause. " alt="" coords="329,435,600,491"/>
+<area shape="rect" id="node16" href="$namespacesouffle_1_1ast.html#a0bf6b9bdf0a8866bd27dde18442ab43d" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="685,508,854,549"/>
+<area shape="rect" id="node19" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="917,116,1063,157"/>
+<area shape="rect" id="node20" href="$classsouffle_1_1ast_1_1_translation_unit.html#a6f55b757d01f14076dc77f03bda6bc7b" title="Return the program. " alt="" coords="378,567,551,608"/>
+<area shape="rect" id="node21" href="$classsouffle_1_1ast_1_1transform_1_1_materialize_singleton_aggregation_transformer.html#a20001a4695b5281bc2445ec4776a110f" title="Determines whether an aggregate is single&#45;valued, ie the aggregate does not depend on the outer scope..." alt="" coords="343,633,586,689"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a62f80c157a6a365d78a43592732a8efa" title="Returns the first element in a container that satisfies a given predicate, nullptr otherwise..." alt="" coords="938,363,1042,390"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_relation.html#aec7a180cc23c066453f1e97e9957ccfe" title="Get qualified relation name. " alt="" coords="913,232,1067,273"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="911,297,1069,339"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1123,214,1269,241"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="718,195,821,222"/>
+<area shape="rect" id="node13" href="$namespacesouffle_1_1ast.html#af59ed6a7c649aec10999baea2f2c8b35" title="Returns the relation with the given name in the program. " alt="" coords="681,363,857,390"/>
+<area shape="rect" id="node14" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="707,431,832,458"/>
+<area shape="rect" id="node17" href="$namespacesouffle_1_1ast.html#a5a45867d4cbfd053ffd30af4b4e1dd9e" title="A utility function visiting all nodes within the ast rooted by the given node recursively in a depth&#45;..." alt="" coords="905,508,1075,549"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ast_1_1_node.html#a332720bacd0c374ab8ff3977f0d00210" title="Obtain a list of all embedded AST child nodes. " alt="" coords="1128,508,1264,549"/>
+</map>

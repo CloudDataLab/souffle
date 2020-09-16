@@ -1,0 +1,37 @@
+<map id="souffle::NodeGenerator::visitParallelIndexScan" name="souffle::NodeGenerator::visitParallelIndexScan">
+<area shape="rect" id="node2" href="$classsouffle_1_1_node_generator.html#a39bf7e146cd0157196b2a35417b83374" title="Return operation index id from the result of indexAnalysis. " alt="" coords="227,209,400,251"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ram_1_1_relation_operation.html#a8ec015b8c6fa6882651e9bf1a943f41d" title="Get search relation. " alt="" coords="765,392,990,433"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1_node_generator.html#a123dfb051c1f67504e308f43313a3260" title="Encode and create the relation, return the relation id. " alt="" coords="227,548,400,589"/>
+<area shape="rect" id="node33" href="$classsouffle_1_1_node_generator.html#a445759c3805e652028f68b0c136746d3" title="Encode and return the super&#45;instruction information about a index operation. " alt="" coords="495,333,669,375"/>
+<area shape="rect" id="node35" href="$classsouffle_1_1_node_generator.html#a54c9b09de9da918c7da6789b0cdb4ae0" title="souffle::NodeGenerator\l::visitTupleOperation" alt="" coords="495,451,669,492"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#abd1cd7d94f5928e8cbe5f78b42908360" title="souffle::ram::analysis\l::SearchSignature::arity" alt="" coords="790,144,965,185"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#a817f6680ca101228111ef9823ea11582" title="souffle::ram::analysis\l::SearchSignature::empty" alt="" coords="489,71,675,112"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ram_1_1analysis_1_1_search_signature.html#ac1f80126eab5752a06c3847f3fa37835" title="souffle::ram::analysis\l::SearchSignature::getFullSearch\lSignature" alt="" coords="467,137,697,193"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ram_1_1analysis_1_1_index_analysis.html#a6c856d20881b15e8d9feb1397126e18f" title="get the minimal index cover for a relation " alt="" coords="481,516,683,557"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ram_1_1analysis_1_1_min_index_selection.html#a8a122a8b2c1cb552fd19e57cd2779e14" title="Get index for a search " alt="" coords="448,5,716,47"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ram_1_1analysis_1_1_index_analysis.html#a2069fe9fe54585abf5716c164033adc1" title="Get index signature for an Ram IndexOperation operation " alt="" coords="454,268,710,309"/>
+<area shape="rect" id="node8" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="826,13,929,39"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ram_1_1_relation.html#a3a6283617c07b8e058715018648fb99e" title="Get arity of relation. " alt="" coords="797,327,958,368"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ram_1_1_index_operation.html#aa97304925d66e5f54ea0aee73baafd2b" title="Get range pattern. " alt="" coords="773,209,981,251"/>
+<area shape="rect" id="node14" href="$namespacesouffle_1_1ram.html#a0d10001e285b2d129058d9e7b81d85bd" title="Determines if an expression represents an undefined value. " alt="" coords="780,275,975,302"/>
+<area shape="rect" id="node13" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1039,217,1185,243"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1_node_generator.html#a88f79083273a01aa003182345dddb24b" title="Create and add relation into the runtime environment. " alt="" coords="495,647,669,688"/>
+<area shape="rect" id="node32" href="$classsouffle_1_1_node_generator.html#af575fa077e975e36f3f0fe216fcbbfd9" title="Get a valid relation id for encoding. " alt="" coords="495,581,669,623"/>
+<area shape="rect" id="node17" href="$namespacesouffle.html#ac80f9b1a2370c37848a21ce4eeb6bbee" title="souffle::createBTreeProvenance\lIndex" alt="" coords="764,625,991,667"/>
+<area shape="rect" id="node18" href="$namespacesouffle.html#a315141918c39611929a694840f046fb5" title="souffle::fatal" alt="" coords="1060,517,1164,543"/>
+<area shape="rect" id="node31" href="$classsouffle_1_1_order.html#acba06648b910cba7978cca29cbf87ed1" title="souffle::Order::size" alt="" coords="1040,633,1184,659"/>
+<area shape="rect" id="node19" href="$namespacetinyformat.html#adc3e74768f0e2204f9f9a726fc07ec61" title="tinyformat::format" alt="" coords="1233,517,1376,543"/>
+<area shape="rect" id="node20" href="$namespacetinyformat.html#a86ed74eb3ed66a662e96220d877da964" title="Format list of arguments to the stream according to the given format string. " alt="" coords="1424,517,1575,543"/>
+<area shape="rect" id="node28" href="$namespacetinyformat.html#ab7b10973ec89e6601353675a85f99d61" title="tinyformat::makeFormatList" alt="" coords="1623,450,1828,477"/>
+<area shape="rect" id="node21" href="$namespacetinyformat_1_1detail.html#a9fe547bc617c38498e58c12cce507bec" title="tinyformat::detail\l::formatImpl" alt="" coords="1657,501,1793,543"/>
+<area shape="rect" id="node29" href="$namespacetinyformat.html#a970fd8292e14eb74ba55bafb41017016" title="tinyformat::printf" alt="" coords="1658,567,1793,594"/>
+<area shape="rect" id="node30" href="$namespacetinyformat.html#a97775445fea05ffaaa0690ab3bb1a920" title="tinyformat::printfln" alt="" coords="1653,618,1798,645"/>
+<area shape="rect" id="node22" href="$namespacetinyformat_1_1detail.html#ad3d636b9f85202b515c8940b7fcb62a6" title="tinyformat::detail\l::printFormatStringLiteral" alt="" coords="1877,436,2063,477"/>
+<area shape="rect" id="node23" href="$namespacetinyformat_1_1detail.html#ab4493739cbfe66bc79867f13f1fdf0db" title="tinyformat::detail\l::streamStateFromFormat" alt="" coords="1876,501,2064,543"/>
+<area shape="rect" id="node27" href="$classtinyformat_1_1detail_1_1_format_arg.html#acbf435711bbe4a4da7fc81758d7108a9" title="tinyformat::detail\l::FormatArg::format" alt="" coords="1895,567,2045,608"/>
+<area shape="rect" id="node24" href="$namespacetinyformat_1_1detail.html#a67285e0adb9f4164f9fc30a3eb11c771" title="tinyformat::detail\l::parseIntAndAdvance" alt="" coords="2339,472,2503,513"/>
+<area shape="rect" id="node25" href="$namespacetinyformat_1_1detail.html#ae1e94cbdd9e7cf26f17856a1792664e1" title="tinyformat::detail\l::parseWidthOrPrecision" alt="" coords="2112,531,2291,572"/>
+<area shape="rect" id="node26" href="$classtinyformat_1_1detail_1_1_format_arg.html#a91b69f66ce9dc8ca2914dce8985d7a1a" title="tinyformat::detail\l::FormatArg::toInt" alt="" coords="2353,537,2489,579"/>
+<area shape="rect" id="node34" href="$structsouffle_1_1ram_1_1_visitor.html#ac85f782a84f735a0060532a4aa210ff7" title="The main entry for a visit process conducting the dispatching of a visit to the various sub&#45;types of ..." alt="" coords="785,458,969,514"/>
+<area shape="rect" id="node36" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="768,539,987,580"/>
+</map>

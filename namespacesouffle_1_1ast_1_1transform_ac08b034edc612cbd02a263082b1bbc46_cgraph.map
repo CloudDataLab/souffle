@@ -1,0 +1,5 @@
+<map id="souffle::ast::transform::combineAggregators" name="souffle::ast::transform::combineAggregators">
+<area shape="rect" id="node2" href="$namespacesouffle_1_1ast_1_1transform.html#a1211fcf1fa30273559973f585502c936" title="Renames all variables in a given argument uniquely. " alt="" coords="220,27,387,69"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="448,5,557,32"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_node.html#a40bbdb53c63f664c2c43854dc7f0af7b" title="Apply the mapper to all child nodes. " alt="" coords="435,57,571,98"/>
+</map>

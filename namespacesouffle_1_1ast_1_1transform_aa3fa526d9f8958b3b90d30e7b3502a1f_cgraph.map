@@ -1,0 +1,6 @@
+<map id="souffle::ast::transform::nameInlinedUnderscores" name="souffle::ast::transform::nameInlinedUnderscores">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_program.html#ada52fa87a44d5fda0734645f0375b2bf" title="Apply the mapper to all child nodes. " alt="" coords="245,5,403,47"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_program.html#a89bc64ed82fbb346ff8fcb922386c196" title="Return relations. " alt="" coords="245,71,403,112"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results. " alt="" coords="473,13,575,39"/>
+<area shape="rect" id="node5" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="451,78,597,105"/>
+</map>

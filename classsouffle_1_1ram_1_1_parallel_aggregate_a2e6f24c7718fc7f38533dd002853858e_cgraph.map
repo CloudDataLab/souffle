@@ -1,0 +1,5 @@
+<map id="souffle::ram::ParallelAggregate::clone" name="souffle::ram::ParallelAggregate::clone">
+<area shape="rect" id="node2" href="$namespacesouffle.html#a1dd578fbaf92e67ee52ebdd8cf364584" title="souffle::clone" alt="" coords="333,5,442,32"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ram_1_1_nested_operation.html#a39970444a2e5cffa4a32a283ebfd184e" title="Get nested operation. " alt="" coords="278,57,497,98"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ram_1_1_parallel_aggregate.html#adb3d5cb6ef7cab29f7fff1fcf80edc0e" title="souffle::ram::ParallelAggregate\l::ParallelAggregate" alt="" coords="276,122,499,163"/>
+</map>

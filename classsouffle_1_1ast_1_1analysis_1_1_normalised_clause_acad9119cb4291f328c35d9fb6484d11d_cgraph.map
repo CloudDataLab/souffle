@@ -1,0 +1,13 @@
+<map id="souffle::ast::analysis::NormalisedClause::NormalisedClause" name="souffle::ast::analysis::NormalisedClause::NormalisedClause">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a085c84fff1af86e616743eb68d25681f" title="Parse a body literal into the element list. " alt="" coords="285,257,511,313"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_atom.html#a48b2afc7e3e22611a93b42f0089342d8" title="Return arguments. " alt="" coords="909,64,1047,105"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#ae3f769a48baaad6ea81772cd0b0036c8" title="Return a normalised string repr of an argument. " alt="" coords="867,287,1089,343"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_clause.html#a199bb0fc53e3f9980967d67b8dfb68a5" title="Obtains a copy of the internally maintained body literals. " alt="" coords="325,5,471,47"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_clause.html#a92a6ca9ea20fe63f074d597d81d07c08" title="Return the atom that represents the head of the clause. " alt="" coords="325,483,471,524"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_normalised_clause.html#a9824bfde2cac29bfc801f0f24093a0a5" title="Parse an atom with a preset name qualifier into the element list. " alt="" coords="559,173,819,215"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_qualified_name.html#aad398c1744b3162c468ce921d4c5061a" title="prepend qualifiers " alt="" coords="879,221,1077,263"/>
+<area shape="rect" id="node9" href="$namespacesouffle.html#a10525539360588d9c9048cb27f80d6ea" title="Converts operator to its symbolic representation. " alt="" coords="591,365,787,407"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#aecc08c83ad9634fc515b7aa094702949" title="A generic function converting strings into strings (trivial case). " alt="" coords="626,122,751,149"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_atom.html#ab9a22c7f862012f074559a4061696241" title="Return qualified name. " alt="" coords="904,156,1052,197"/>
+<area shape="rect" id="node7" href="$namespacesouffle.html#ad62d4e824a9d74c7462da546a21780fe" title="A utility function enabling the creation of a vector of pointers. " alt="" coords="1137,42,1284,69"/>
+</map>

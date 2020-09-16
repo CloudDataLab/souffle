@@ -1,0 +1,11 @@
+<map id="souffle::ast::analysis::ProfileUseAnalysis::ProfileUseAnalysis" name="souffle::ast::analysis::ProfileUseAnalysis::ProfileUseAnalysis">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_profile_use_analysis.html#a76c7049ccea3c9839146126dc76a576d" title="Return size of relation in the profile. " alt="" coords="227,5,386,61"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1analysis_1_1_profile_use_analysis.html#a1961565ef30e47e393da5bf07750b8df" title="Check whether the relation size exists in profile. " alt="" coords="227,85,386,141"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1analysis_1_1_profile_use_analysis.html#a7cb3d30349e5b2b39368676cfab1a976" title="Output some profile information. " alt="" coords="212,166,401,207"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1analysis_1_1_profile_use_analysis.html#acbdfe95bdeadfb14c582e276f495b36b" title="Run analysis. " alt="" coords="217,231,397,273"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_qualified_name.html#a112a3dcf0da6df67f59aff88f8a73475" title="convert to a string separated by fullstop " alt="" coords="449,53,648,94"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#abe4e3f19879707216a2758b03f4e2deb" title="Creates an object to be forwarded to some output stream for printing sequences of elements interspers..." alt="" coords="697,60,796,87"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1_global.html#a2dcb257b0f98d0b882862427cc965640" title="souffle::Global::config" alt="" coords="467,209,630,236"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1profile_1_1_reader.html#a57cc758c2f40d2ba5fe314678a3ba79e" title="Read the contents from file into the class. " alt="" coords="465,261,633,302"/>
+<area shape="rect" id="node10" href="$namespacesouffle.html#a1c65551944c7ecf6f44ec851b49bdbb0" title="souffle::now" alt="" coords="696,268,797,295"/>
+</map>

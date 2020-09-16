@@ -1,0 +1,5 @@
+<map id="souffle::ast::transform::FoldAnonymousRecords::isValidRecordConstraint" name="souffle::ast::transform::FoldAnonymousRecords::isValidRecordConstraint">
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_binary_constraint.html#a8b1cd3e36ee98ec2d286ce74ccdeaea1" title="Return left&#45;hand side argument. " alt="" coords="239,5,450,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a6befeedfd76433e1bd51a1f6cd42afec" title="souffle::isEqConstraint" alt="" coords="261,71,429,98"/>
+<area shape="rect" id="node4" href="$namespacesouffle.html#a269a51553c86cbb637013907c879f478" title="Negated Constraint Operator Each operator requires a negated operator which is necessary for the expa..." alt="" coords="239,122,451,149"/>
+</map>
